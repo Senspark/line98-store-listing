@@ -1,0 +1,27 @@
+Welcome to the wonderful world of Lines 98, it is a simple interesting classical game. However it has a brilliant & cool user interface, we sure you will love it at the first time!
+
+GAME PLAY:
+- For LINE mode: make score by arranging 5 or more balls of the same color consecutively in straight lines (vertically, horizontally or diagonally)
+- For SQUARE mode: make score by arranging at least 4 balls of the same color to form a rectangle or square
+- For BLOCK mode: make score by arranging at least 7 balls of the same color close together.
+
+Imagine you play a famous game in fantastic style!
+Let's make as many scores as you can and challenge your friends now!!!
+
+FEATURES:
+- Addictive gameplay
+- Impressive graphics that will make you feel excited and more.
+- Five and more themes for you (black, red, blue, green, wood, ...)
+- Balls will move faster and faster with balls speed control.
+- Easy to play, challenging to master.
+- Save & load many games at the same time now!
+- Social network sharing, let beat your friends right now!
+- Global leaderboards to watch your friends and competitors in real time!
+- Submit your high score with game screen while playing, DO NOT NEED TO WAIT FOR GAME ENDED ANY MORE!
+- Support many languages: English, Chinese, French, Italian, German, Spanish, Dutch, Russian...
+
+
+CONTACT US: 
+- Visit our official site at http://www.senspark.com 
+- Send your feedback via feedback@senspark.com 
+- Like & follow on https://www.facebook.com/TeamSenspark

@@ -1,0 +1,69 @@
+Vítejte v úžasném světě Lines 98. Jedná se o jednoduchou, zajímavou, klasickou hru, která však má geniální & parádní uživatelské rozhraní. Jsme si jisti, že si ji zamilujete hned napoprvé!
+
+HRATELNOST
+ - Režim ŘETĚZEC: skórujete tak, že uspořádáte 5 nebo více kuliček stejné barvy za sebou v rovných řadách-řetězcích (vertikálně, horizontálně nebo diagonálně)
+ - Režim ČTVEREC: skórujete tak, že uspořádáte alespoň 4 kuličky stejné barvy tak, aby tvořily obdélník nebo čtverec
+ - Režim BLOK: skórujete tak, že uspořádáte alespoň 4 kuličky stejné barvy těsně u sebe.
+Představte si, že hrajete slavnou hru fantastickým stylem!
+Udělejte co nejvyšší skóre a vyzvěte své kamarády právě teď!!!
+
+CHARAKTERISTIKA:
+ - Hra, na kterou si brzy navyknete
+ - Působivá grafika, díky které se budete cítit mnohem více, než jen nadšeni.
+ - Pět i více motivů/témat (černý, červený, modrý, zelený, dřevěný, ...)
+ - Kuličky se pohybují rychleji a rychleji s ovladačem rychlosti.
+ - Snadné hrát, náročné zvládnout.
+ - Současně uložte & nahrajte spoustu her právě teď!
+ - Sdílení na sociální síti. Porazte své přátele právě teď!
+ - Sledujte své přátele a další účastníky hry v reálném čase na banneru!
+ - Zobrazte své vysoké skóre na herní obrazovce během hraní, UŽ NEMUSÍTE ČEKAT, AŽ HRA SKONČÍ!
+ - Podpora pro další jazyky: angličtina, čínština, francouzština, italština, němčina, španělština, holandština, ruština, ...
+
+UPDATE:
+## [2.1.4] - 01.12.2016
+### Upraveno
+- Odstranit reklamy videa (UnityAds).
+### Pevná
+- Fix 5 kuliček ne výbuchu.
+
+## [2.1.3] - 2015-11-16
+### Přidal
+- Přidat UnityAds
+### Pevná
+- Selhání při konec hry.
+- Game Over mají mnoho tlačítek.
+
+## [2.1.2] - 2015-09-16
+### Pevná
+- Volání servis od sítě smootly & procesu čekání dialog, zatímco synchronizace ze sítě.
+
+## [2.1.1] - 09.08.2015
+### Pevná
+- Úkol Optimalizace sítě.
+- Move Pozvat přátele dialog Ranking dialogové okno.
+
+## [2,1] - 09.04.2015
+### Přidal
+- Sociální Ranking.
+- Facebook Friend Seznam & Pozvánka.
+- Cloud Sync.
+- Šifrování grafické prostředky.
+- Hrát hru Připomenutí.
+- Dej na tlačítko Save / Load v dialogovém okně menu.
+- Více se pohybovat hru do hlavní hry.
+- Dej tlačítko Facebook ke hře přes dialog.
+- Dej témata vybrat v dialogu nastavení.
+
+## [2,0] - 07.21.2015
+### Přidal
+- Modernizovat aplikační rozhraní.
+- Podpora 26 více jazyků.
+- Sdílení Podpora skóre při hraní.
+- Podpora 2 další herní módy.
+- Podpora 5 Žádost témata.
+- Zatížení Podpora a uložit více her.
+
+KONTAKTUJTE NÁS:
+ - Navštivte naše oficiální stránky: http://www.senspark.com
+ - Pošlete nám svůj názor prostřednictvím feedback@senspark.com
+ - Označte Líbí se mi & sledujte nás na: https://www.facebook.com/TeamSenspark

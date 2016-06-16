@@ -1,0 +1,27 @@
+Maligayang pagdating sa kahanga-hangang mundo ng mga linya 98, ito ay isang simpleng kagiliw-giliw na classical laro. Gayunpaman, ito ay isang makinang & cool na interface ng gumagamit, kami ay sigurado ikaw ay ibigin ito sa unang pagkakataon!
+
+GAME PLAY:
+- Para sa LINE mode: gumawa puntos sa pamamagitan ng pag-aayos ng 5 o higit pang mga bola ng parehong kulay nang magkasunod sa tuwid na linya (patayo, pahalang o pahilis)
+- Para sa SQUARE mode: gumawa puntos sa pamamagitan ng pag-aayos ng hindi bababa sa 4 na mga bola ng parehong kulay upang bumuo ng isang parihaba o parisukat
+- Para sa BLOCK mode: gumawa puntos sa pamamagitan ng pag-aayos ng hindi bababa sa 7 mga bolang magkakapareho ang kulay isara magkasama.
+
+Isipin play ka ng isang sikat na laro sa hindi kapani-paniwala estilo!
+Gumawa ng maraming mga marka bilang maaari mong at hamunin ang iyong mga kaibigan ngayon Hayaan !!!
+
+TAMPOK:
+- Nakakahumaling gameplay
+- Kahanga-hangang graphics na gumawa ka huwag mag-nasasabik at higit pa.
+- Limang at higit pang mga tema para sa iyo (itim, pula, asul, berde, kahoy, ...)
+- Ball ay ilipat ang mas mabilis at mas mabilis na may mga bola bilis control.
+- Madaling i-play, Hinahamon upang master.
+- I-save & load ng maraming mga laro nang sabay-sabay ngayon!
+- Social network sa pagbabahagi, hayaan matalo ang iyong mga kaibigan ngayon din!
+- Global leaderboard upang panoorin ang iyong mga kaibigan at mga kakumpitensya sa real time!
+- Isumite ang iyong mataas na iskor sa laro screen habang naglalaro, AY HINDI KAILANGAN SA WAIT FOR GAME NAGWAKAS ANUMANG KARAGDAGANG!
+- Suporta ng maraming mga wika: Ingles, Tsino, Pranses, Italyano, Aleman, Espanyol, Dutch, Russian ...
+
+
+MAKIPAG-UGNAYAN SA AMIN:
+- Bisitahin ang aming opisyal na site sa http://www.senspark.com
+- Ipadala ang iyong puna sa pamamagitan ng feedback@senspark.com
+- Like & sundin sa https://www.facebook.com/TeamSenspark

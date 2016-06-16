@@ -1,0 +1,27 @@
+Bienvenue dans le monde merveilleux des lignes 98, il est un jeu classique intéressant simple. Toutefois, il a une interface utilisateur brillante et cool, nous sûr que vous allez l'adorer à la première fois!
+
+JEU DE JEU:
+- Pour le mode LINE: faire des notes en organisant 5 boules ou plus de la même couleur consécutivement dans les lignes droites (verticalement, horizontalement ou en diagonale)
+- Pour le mode SQUARE: make score en disposer au moins 4 boules de la même couleur pour former un rectangle ou carré
+- Pour le mode BLOCK: make score en disposer au moins 7 boules de la même couleur rapprochées.
+
+Imaginez que vous jouez à un jeu célèbre dans le style fantastique!
+Faisons autant de scores que vous pouvez et défier vos amis maintenant !!!
+
+FONCTIONNALITÉS:
+- Un jeu passionnant
+- Des graphismes impressionnants qui vous feront sentir excité et plus.
+- Cinq et plus de thèmes pour vous (noir, rouge, bleu, vert, bois, ...)
+- Balls va aller plus vite et plus rapide avec le contrôle des boules de vitesse.
+- Facile à jouer, difficile à maîtriser.
+- Enregistrer et charger de nombreux jeux en même temps!
+- Le partage de réseau social, laissez battre vos amis dès maintenant!
+- Classements mondiaux pour regarder vos amis et concurrents en temps réel!
+- Soumettre votre score élevé avec écran de jeu tout en jouant, NE PAS besoin d'attendre JEU TERMINÉ PLUS!
+- Soutien de nombreuses langues: anglais, chinois, français, italien, allemand, espagnol, néerlandais, russe ...
+
+
+CONTACTEZ NOUS:
+- Visitez notre site officiel à http://www.senspark.com
+- Envoyer vos commentaires via feedback@senspark.com
+- Comme & suivre sur https://www.facebook.com/TeamSenspark

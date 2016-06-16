@@ -1,0 +1,27 @@
+Bienvenido al maravilloso mundo de las líneas 98, se trata de un simple juego clásico interesante. Sin embargo, tiene una interfaz de usuario brillante y fresco, estamos seguros de que le encantará en la primera vez!
+
+JUGAR:
+- Para el modo LINE: hacer que la puntuación mediante la organización de 5 o más bolas del mismo color consecutivamente en línea recta (vertical, horizontal o diagonal)
+- Para el modo SQUARE: hacer que la puntuación disponiendo al menos 4 bolas del mismo color para formar un rectángulo o cuadrado
+- Para el modo BLOQUE: hacer que la puntuación disponiendo al menos 7 bolas del mismo color juntos.
+
+Imagínese que usted juega un famoso juego en el estilo fantástico!
+Vamos a hacer la mayor puntuación que puedas y desafiar a sus amigos ahora !!!
+
+CARACTERISTICAS:
+- Modo de juego adictivo
+- Gráficos impresionantes que le hará sentirse emocionados y más.
+- Cinco y más temas para usted (negro, rojo, azul, verde, madera, ...)
+- bolas se moverán más rápido y más rápido con control de velocidad de las bolas.
+- Fácil de jugar, difícil de dominar.
+- Guardar y cargar muchos juegos al mismo tiempo!
+- Uso compartido de redes sociales, dejar que vencer a tus amigos en este momento!
+- Tablas de clasificación mundial para ver a sus amigos y competidores en tiempo real!
+- Presentar su puntuación más alta con pantalla de juego durante el juego, NO es necesario esperar a juego terminó MÁS!
+- Apoyo muchos idiomas: Inglés, chino, francés, italiano, alemán, español, holandés, ruso ...
+
+
+CONTÁCTENOS:
+- Visita nuestro sitio oficial en http://www.senspark.com
+- Envía tus comentarios a través de feedback@senspark.com
+- Al igual que en https://www.facebook.com/TeamSenspark y sigue

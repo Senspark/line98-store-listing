@@ -1,0 +1,74 @@
+Welcome to the wonderful world of Lines 98, it is a simple interesting classical game. However it has a brilliant & cool user interface, we sure you will love it at the first time!
+
+GAME PLAY:
+
+- For LINE mode: make score by arranging 5 or more balls of the same color consecutively in straight lines (vertically, horizontally or diagonally)
+- For SQUARE mode: make score by arranging at least 4 balls of the same color to form a rectangle or square
+- For BLOCK mode: make score by arranging at least 7 balls of the same color close together.
+
+Imagine you play a famous game in fantastic style!
+Let's make as many scores as you can and challenge your friends now!!!
+
+FEATURES:
+- Addictive gameplay
+- Impressive graphics that will make you feel excited and more.
+- Five and more themes for you (black, red, blue, green, wood, ...)
+- Balls will move faster and faster with balls speed control.
+- Easy to play, challenging to master.
+- Save & load many games at the same time now!
+- Social network sharing, let beat your friends right now!
+- Global leaderboards to watch your friends and competitors in real time!
+- Submit your high score with game screen while playing, DO NOT NEED TO WAIT FOR GAME ENDED GAME ANY MORE!
+- Support many languages: English, Chinese, French, Italian, German, Spanish, Dutch, Russian...
+
+UPDATE:
+## [2.1.4] - 2016-01-12
+### Edited
+- Remove ads video (UnityAds).
+### Fixed
+- Fix 5 balls in line not explosion.
+
+## [2.1.3] - 2015-11-16
+### Added
+- Add UnityAds
+### Fixed
+- Crash when end game.
+- Game Over have many buttons.
+
+## [2.1.2] - 2015-09-16
+### Fixed
+- Calling service from network smootly & making waiting dialog while sync from network.
+
+## [2.1.1] - 2015-09-08
+### Fixed
+- Optimize network task.
+- Move Invite friends dialog to Ranking dialog.
+
+## [2.1] - 2015-09-04
+### Added
+- Social Ranking.
+- Facebook Friend List & Invitation.
+- Cloud Sync.
+- Encrypt graphics resources.
+- Play game Reminder.
+- Put Save/Load button in menu dialog.
+- Move More game to main game.
+- Put Facebook button to game over dialog.
+- Put themes select in settings dialog.
+
+## [2.0] - 2015–07-21
+### Added
+- Upgrade application interfaces.
+- Support 26 more languages.
+- Support sharing score when playing.
+- Support 2 more game modes.
+- Support 5 application themes.
+- Support load and save multiple games.
+
+CONTACT US: 
+- Visit our official site at http://www.senspark.com 
+- Send your feedback via feedback@senspark.com 
+- Like & follow on https://www.facebook.com/TeamSenspark
+
+
+Đây là game line 98 game kinh dien mọi người đều yêu thích. Line 98 cuc hay, hấp dẫn giới văn phòng. Bạn hãy chơi ngay line 98 game kinh điển. Game line 98 tốt nhất trên store.

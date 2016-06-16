@@ -1,0 +1,27 @@
+Benvingut al meravellós món de les línies 98, es tracta d'un simple joc clàssic interessant. No obstant això, té una interfície d'usuari brillant i fresc, estem segurs que li encantarà a la primera vegada!
+
+JUGAR:
+- Per la manera LINE: fer que la puntuació mitjançant l'organització de 5 o més boles del mateix color consecutivament en línia recta (vertical, horitzontal o diagonal)
+- Per la manera SQUARE: fer que la puntuació disposant almenys 4 boles del mateix color per formar un rectangle o quadrat
+- Per la manera BLOC: fer que la puntuació disposant almenys 7 boles del mateix color junts.
+
+Imagini que vostè juga un famós joc en l'estil fantàstic!
+Anem a fer la major puntuació que puguis i desafiar als seus amics ara !!!
+
+CARACTERÍSTIQUES:
+- Mode de joc addictiu
+- Gràfics impressionants que li farà sentir-se emocionats i més.
+- Cinc i més temes per a vostè (negre, vermell, blau, verd, fusta, ...)
+- Boles es mouran més ràpid i més ràpid amb control de velocitat de les boles.
+- Fàcil de jugar, difícil de dominar.
+- Guardar i carregar molts jocs al mateix temps!
+- Ús compartit de xarxes socials, deixar que vèncer als teus amics en aquest moment!
+- Taules de classificació mundial per veure els seus amics i competidors en temps real!
+- Presentar la seva puntuació més alta amb pantalla de joc durant el joc, NO cal esperar joc va acabar MÉS!
+- Suport molts idiomes: Anglès, xinès, francès, italià, alemany, espanyol, holandès, rus ...
+
+
+CONTACTA'NS:
+- Visita el nostre lloc oficial en http://www.senspark.com
+- Envia els teus comentaris a través de feedback@senspark.com
+- Igual que en https://www.facebook.com/TeamSenspark i segueix

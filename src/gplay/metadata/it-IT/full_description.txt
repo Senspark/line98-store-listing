@@ -1,0 +1,69 @@
+Bevenuto nel meraviglioso mondo di Lines 98: un gioco classico, semplice ed entusiasmante, caratterizzato da un'interfaccia geniale ed accattivante. Siamo sicuri che ti piacerà fin dal primo istante!
+
+GIOCO:
+- Modalità LINEE: accumula punti disponendo consecutivamente 5 o più palline dello stesso colore in modo da formare linee diritte (in senso verticale, orizzontale o diagonale)
+- Modalità QUADRATI: accumula punti disponendo almeno 4 palline dello stesso colore in modo da formare un rettangolo o un quadrato
+- Modalità CUBI: accumula punti disponendo l'una vicina all'altra almeno 4 palline dello stesso colore.
+Immagina di giocare a un famosissimo gioco, in grande stile!
+Guadagna quanti più punti possibili e sfida subito i tuoi amici!!!
+
+CARATTERISTICHE
+- Entusiasmanti modalità di gioco
+- Grafiche incredibili per un divertimento ancora più grande.
+- Più di 5 temi disponibili (nero, rosso, blu, verde, legno...)
+- Le palline si muoveranno sempre più rapidamente grazie all'apposito controllo velocità.
+- Giocare è semplice, diventarne un esperto è una vera e propria sfida.
+- Ora puoi salvare e caricare più partite contemporaneamente!
+- Condivisione tramite social network: batti subito i tuoi amici!
+- Classifica per tenere d'occhio i risultati dei tuoi amici e dei tuoi rivali in tempo reale!
+- Invia il tuo record durante la partita usando la schermata di gioco, NON C'È PIÙ BISOGNO DI ATTENDERE LA CONCLUSIONE DELLA PARTITA! 
+- Sono supportate altre lingue: inglese, cinese, francese, italiano, tedesco, spagnolo, olandese, russo...
+
+AGGIORNAMENTO:
+## [2.1.4] - 2016/01/12
+### A cura
+- Rimuovere gli annunci video (UnityAds).
+### Fisso
+- Fissare 5 non le palle di esplosione.
+
+## [2.1.3] - 2015/11/16
+### Aggiunto
+- Aggiungere UnityAds
+### Fisso
+- Blocco durante gioco finale.
+- Game Over ha molti pulsanti.
+
+## [2.1.2] - 2015/09/16
+### fissa
+- Dialogo servizio di chiamate da rete smootly & fabbricazione in attesa mentre la sincronizzazione dalla rete.
+
+## [2.1.1] - 2015/09/08
+### fissa
+- Attività di rete Ottimizza.
+- Sposta Invita dialogo di dialogo Ranking amici.
+
+## [2.1] - 2015/09/04
+### Aggiunto
+- Ranking sociale.
+- Facebook Friend List & Invito.
+- Cloud Sync.
+- Risorse grafiche Crittografare.
+- Gioca Promemoria.
+- Mettere pulsante Salva / Carica nella finestra del menu.
+- Spostare Più gioco al gioco principale.
+- Mettere pulsante Facebook per Game Over dialogo.
+- Temi Mettere selezionano finestra delle impostazioni.
+
+## [2.0] - 2015/07/21
+### Aggiunto
+- Migliora interfacce applicative.
+- Supporto 26 più lingue.
+- Condivisione Supporto punteggio durante il gioco.
+- Supporto altre 2 modalità di gioco.
+- Temi Support 5 applicazioni.
+- Carico Supporto e salvare più giochi.
+
+CONTATTI
+- Visita il nostro sito ufficiale all'indirizzo http://www.senspark.com
+- Inviaci il tuo feedback all'indirizzo feedback@senspark.com
+- Metti ""Mi piace"" e seguici sulla pagina https://www.facebook.com/TeamSenspark

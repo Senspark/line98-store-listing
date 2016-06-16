@@ -1,0 +1,69 @@
+Chào mừng bạn đến với Lines 98, một trò chơi kinh điển cực kỳ hấp dẫn. Với giao diện cực KOOL và dễ dàng sử dụng, chúng tôi chắc chắn bạn sẽ thích ngay lập tức!it at the first time!
+
+CHẾ ĐỘ CHƠI:
+- Chế độ ĐƯỜNG THẲNG: ghi điểm bằng cách xếp 5 trái bóng cùng màu hay nhiều hơn theo đường thẳng.
+- Chế độ HÌNH CHỮ NHẬT: ghi điểm bằng cách xếp ít nhất 4 trái bóng cùng màu theo hình chữ nhật.
+- Chế độ KHỐI: ghi điểm bằng cách xếp ít nhất 7 trái bóng cùng màu gần nhau.
+
+Hãy tạo nhiều điểm nhất có thể và thử thách các bạn bè của bạn!!!
+
+NỔI BẬT:
+- Trò chơi cực kỳ gây nghiện.
+- Đồ họa cực kỳ bắt mắt khiến bạn sẽ rất thích thú.
+- Hỗ trợ sẵn 5 chủ đề giao diện và có thể nhiều hơn nữa trong tương lai để bạn chọn.
+- Đã hỗ trợ chỉnh tốc độ của bóng.
+- Dễ chơi nhưng khó để chơi hay.
+- Có thể lưu và mở lại nhiều ván chơi.
+- Hỗ trợ chia sẻ với bạn bè.
+- Hỗ trợ bảng điểm trên toàn cầu để xem điểm số của những đối thủ khác.
+- Cập nhật điểm cao của bạn cùng với hình ảnh khi đang chơi mà kô cần phải kết thúc ván chơi nữa.
+- Hỗ trợ nhiều ngôn ngữ như: Anh, Trung Quốc, Pháp, Ý, Đức, Tây Ban Nha, Hà Lan, Nga...
+
+CẬP NHẬT:
+## [2.1.4] - 2016-01-11
+### Cập nhật
+- Xoá quảng cáo video UnityAds.
+### Sửa lỗi
+- Sửa lỗi 5 banh liên tiếp không nổ.
+
+## [2.1.3] - 2015-11-16
+### Thêm
+- Thêm UnityAds
+### Sửa lỗi
+- Crash lúc kết thúc game
+- Game Over có quá nhiều nút.
+
+## [2.1.2] - 2015/09/16
+### Sửa lỗi
+- Làm mượt các thao tác liên quan đến mạng và xuất hiện hộp thoại chờ khi đồng bộ.
+
+## [2.1.1] - 2015/09/08
+### Sửa lỗi
+- Tối ưu sử dụng mạng.
+- Dời hộp thoại Mời bạn bè tới hộp thoại Xếp hạng xã hội.
+
+## [2.1] - 2015-09-04
+### Thêm
+- Xếp hạng trên xã hội.
+- Danh sách bạn bè Facebook & mời bạn bè.
+- Đồng bộ hoá dữ liệu.
+- Mã hoá tài nguyên đồ họa.
+- Chức năng nhắc nhở.
+- Đặt nút Save / Load trong hộp thoại menu.
+- Di chuyển nút các game khác đến màn chơi chính.
+- Đặt nút Facebook trên cửa sổ Game Over.
+- Nút chủ đề được đặt trong menu chính.
+
+## [2.0] - 2015-07-21
+### Thêm
+- Nâng cấp giao diện ứng dụng.
+- Hỗ trợ 27 ngôn ngữ.
+- Hỗ trợ chia sẻ điểm số khi chơi.
+- Hỗ trợ thêm 2 chế độ chơi.
+- Hỗ trợ 5 chủ đề ứng dụng.
+- Hỗ trợ tải và lưu nhiều trò chơi.
+
+LIÊN LẠC:
+- Trang chủ: http://www.senspark.com 
+- Phản hồi: feedback@senspark.com 
+- Fanpage: https://www.facebook.com/TeamSenspark

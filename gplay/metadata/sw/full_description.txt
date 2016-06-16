@@ -1,0 +1,27 @@
+Karibu katika ulimwengu wa ajabu wa Lines 98, ni ya kuvutia classical mchezo rahisi. Hata hivyo ina kipaji & baridi user interface, sisi kuhakikisha utakuwa upendo hiyo kwa mara ya kwanza!
+
+GAME PLAY:
+- Kwa mode LINE: kufanya alama kwa kupanga mipira 5 au zaidi ya alama sawa mfululizo katika mistari moja kwa moja (wima, usawa au diagonally)
+- Kwa mode SQUARE: kufanya alama kwa kupanga mipira angalau 4 ya alama sawa na kuunda Mstatili au mraba
+- Kwa mode BLOCK: kufanya alama kwa kupanga angalau 7 mipira ya alama sawa karibu pamoja.
+
+Fikiria wewe kucheza mchezo maarufu katika style ya ajabu!
+Hebu kufanya alama kama wengi kama unaweza na changamoto rafiki yako sasa !!!
+
+VIPENGELE:
+- Addictive gameplay
+- Kuvutia graphics kwamba nitafanya kujisikia msisimko na zaidi.
+- Tano na mandhari zaidi kwa ajili yenu (nyeusi, nyekundu, bluu, kijani, mbao, ...)
+- Mipira utakwenda kwa kasi na kasi na kudhibiti mipira kasi.
+- Easy kucheza, changamoto kwa bwana.
+- Ila & mzigo michezo mingi wakati huo huo sasa!
+- Social kugawana mtandao, hebu kumpiga rafiki yako sasa hivi!
+- Global leaderboards kuangalia rafiki yako na washindani katika muda halisi!
+- Kuwasilisha alama yako ya juu na mchezo screen wakati kucheza, huna haja ya kusubiri kwa mchezo kumalizika ANY ZAIDI!
+- Support lugha nyingi: Kiingereza, Kichina, Kifaransa, Italia, Ujerumani, Hispania, Uholanzi, Urusi ...
+
+
+WASILIANA NASI:
+- Ziara tovuti yetu rasmi katika http://www.senspark.com
+- Tuma maoni yako kupitia feedback@senspark.com
+- Like & kufuata juu https://www.facebook.com/TeamSenspark

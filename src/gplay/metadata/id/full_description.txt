@@ -1,0 +1,69 @@
+Selamat datang di dunia Lines 98 yang mengesankan. Lines 98 merupakan permainan klasik menarik yang sederhana namun memiliki antarmuka pengguna yang keren. Kami yakin aplikasi ini akan membuatmu jatuh cinta pada pandangan pertama!
+
+GAMEPLAY:
+- Untuk mode GARIS: dapatkan skor dengan cara menyusun 5 bola berwarna sama atau lebih dalam satu garis lurus secara berurutan (vertikal, horisontal, maupun diagonal)
+- Untuk mode KOTAK: dapatkan skor dengan cara menyusun paling tidak 4 buah bola berwarna sama untuk membentuk kotak atau persegi panjang
+- Untuk mode BLOK: dapatkan skor dengan cara menyusun paling tidak 4 buah bola yang berdekatan.
+Bayangkan kamu memainkan permainan terkenal dengan cara yang luar biasa!
+Raih skor tinggi dan tantang teman-temanmu sekarang!!!
+
+FItur:
+- Gameplay yang adiktif
+- Grafik mengagumkan yang akan membuatmu bersemangat.
+- Ada lebih dari lima tema untukmu (hitam, merah, biru, hijau, kayu, ...)
+- Bola akan bergerak semakin cepat dengan kendali kecepatan bola.
+- Mudah dimainkan namun sulit untuk dikuasai.
+- Simpan & muat banyak permainan sekaligus!
+- Dukungan jaringan sosial untuk berbagi, kalahkan teman-temanmu sekarang!
+- Klasemen untuk melihat hasil permainan teman-teman dan sainganmu dalam waktu nyata! 
+- Kirimkan skor tertinggimu saat bermain, TIDAK PERLU LAGI MENUNGGU HINGGA PERMAINAN SELESAI!
+- Dukungan bahasa yang lebih banyak: Inggris, Tiongkok, Prancis, Itali, Jerman, Spanyol, Belanda, Rusia, ...
+
+UPDATE:
+## [2.1.4] - 2016/01/12
+### Diedit
+- Hapus iklan video (UnityAds).
+### Tetap
+- Perbaiki 5 bola tidak ledakan.
+
+## [2.1.3] - 2015/11/16
+### Ditambahkan
+- Tambahkan UnityAds
+### Tetap
+- Kecelakaan saat akhir pertandingan.
+- Game Over memiliki banyak tombol.
+
+## [2.1.2] - 2015/09/16
+### tetap
+- Layanan Calling dari jaringan smootly & pembuatan dialog menunggu sementara sync dari jaringan.
+
+## [2.1.1] - 2015/09/08
+### tetap
+- Tugas jaringan Optimalkan.
+- Pindahkan Undang teman dialog untuk dialog Ranking.
+
+## [2.1] - 2015/09/04
+### Ditambahkan
+- Ranking Sosial.
+- Facebook Teman Daftar & Undangan.
+- Cloud Sync.
+- Sumber grafis Encrypt.
+- Putar permainan Pengingat.
+- Masukan tombol Save / beban dalam dialog menu.
+- Pindahkan Lebih permainan ke permainan utama.
+- Masukan tombol Facebook untuk permainan dialog lebih.
+- Tema Put pilih dalam dialog pengaturan.
+
+## [2.0] - 2015/07/21
+### Ditambahkan
+- Tingkatkan antarmuka aplikasi.
+- Dukungan 26 bahasa lebih.
+- Dukungan berbagi skor saat bermain.
+- Dukungan 2 mode permainan lebih.
+- Tema Dukungan 5 aplikasi.
+- Dukungan beban dan menyimpan beberapa games.
+
+HUBUNGI KAMI:
+ - Kunjungi situs resmi kami di at http://www.senspark.com
+ - Kirimkan masukanmu melalui feedback@senspark.com
+ - Sukai dan ikuti kami di https://www.facebook.com/TeamSenspark

@@ -1,0 +1,27 @@
+Chào mừng bạn đến với thế giới tuyệt vời của dòng 98, nó là một trò chơi đơn giản cổ điển thú vị. Tuy nhiên nó có một giao diện người dùng tuyệt vời và mát mẻ, chúng tôi chắc chắn bạn sẽ thích nó ở lần đầu tiên!
+
+Game PLAY:
+- Đối với chế độ LINE: số giờ bằng cách sắp xếp 5 hoặc nhiều hơn quả bóng cùng màu liên tiếp theo đường thẳng (theo chiều dọc, chiều ngang hoặc theo đường chéo)
+- Đối với chế độ SQUARE: số giờ bằng cách sắp xếp ít nhất 4 quả bóng cùng màu để tạo thành một hình chữ nhật hoặc hình vuông
+- Đối với chế độ BLOCK: số giờ bằng cách sắp xếp ít nhất 7 quả bóng cùng màu gần nhau.
+
+Hãy tưởng tượng bạn chơi một trò chơi nổi tiếng trong phong cách tuyệt vời!
+Hãy làm như nhiều điểm như bạn có thể và thách thức bạn bè của bạn ngay bây giờ !!!
+
+Các tính năng chính:
+- Gameplay gây nghiện
+- Đồ họa ấn tượng mà sẽ làm cho bạn cảm thấy vui mừng và nhiều hơn nữa.
+- Năm và nhiều chủ đề cho bạn (đen, đỏ, xanh dương, xanh lá cây, gỗ, ...)
+- Bóng sẽ di chuyển nhanh hơn và nhanh hơn với kiểm soát bóng tốc độ.
+- Dễ dàng để chơi, thách thức để làm chủ.
+- Lưu & tải nhiều trò chơi cùng một lúc bây giờ!
+- Xã hội chia sẻ mạng, để đánh bại bạn bè của bạn ngay bây giờ!
+- Leaderboards toàn cầu để xem bạn bè và đối thủ cạnh tranh của bạn trong thời gian thực!
+- Gửi điểm số cao của bạn với màn hình trò chơi trong khi chơi, KHÔNG CẦN PHẢI ĐỢI CHO TRÒ CHƠI KẾT THÚC CÓ THÊM!
+- Hỗ trợ nhiều ngôn ngữ: tiếng Anh, tiếng Trung, tiếng Pháp, tiếng Ý, tiếng Đức, tiếng Tây Ban Nha, Hà Lan, Nga ...
+
+
+LIÊN HỆ CHÚNG TÔI:
+- Truy cập trang web chính thức của chúng tôi tại http://www.senspark.com
+- Gửi thông tin phản hồi của bạn thông qua feedback@senspark.com
+- Giống như & theo trên https://www.facebook.com/TeamSenspark

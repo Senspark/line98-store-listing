@@ -1,0 +1,69 @@
+Lines 98'in muhteşem dünyasına hoş geldin. Basit, ilginç ve klasik bir oyundur, ancak göz alıcı ve harika bir kullanıcı arayüzüne sahiptir. İlk görüşte ona bayılacağından eminiz!
+
+OYUN TARZI:
+ - ÇİZGİ modu için: Aynı renge sahip 5 ya da daha fazla topu yan yana ve düz çizgiler (dikey, yatay ya da çapraz) halinde sıralayarak puan kazan
+ - KARE modu için: Aynı renge sahip en az 4 topu diktörtgen ya da kare şekline getirerek puan kazan
+ - BLOK modu için: Aynı renge sahip en az 4 topu bir araya getirerek puan kazan.
+Ünlü bir oyunu süper bir tarzda oynadığını düşün!
+Hadi, hemen toplayabildiğimiz kadar puan toplayarak arkadaşlarına meydan okuyalım!
+
+ÖZELLİKLERİ:
+ - Tutkunluk yaratan oyun tarzı
+ - Heyecan verici ve etkileyici grafikler
+ - Senin için beşten fazla tema (siyah, kırmızı, mavi, yeşil, ahşap...)
+ - Top hız kontrolü ile toplar git gide daha hızlı hareket edecek.
+ - Öğrenmesi kolaydır, ancak ustalaşması zordur.
+ - Artık aynı anda bir sürü oyunu kaydedip yükleyebilirsin!
+ - Sosyal ağ paylaşımı; hemen arkadaşlarını geç!
+ - Gerçek zamanlı olarak arkadaş ve rakiplerini izlemeni sağlayan lider tablosu!
+ - Oynarken oyun ekranından yüksek skorunu gönder. ARTIK OYUN BİTENE KADAR BEKLEMENE GEREK YOK!
+ - Daha çok dil desteği: İngilizce, Çince, Fransızca, İtalyanca, Almanca, İspanyolca, Felemenkçe, Rusça...
+
+GÜNCELLEME:
+## [2.1.4] - 2016/01/12
+### Düzenlendi
+- Reklamlar, video (UnityAds) sökün.
+### Sabit
+- 5 top değil patlama sabitleyin.
+
+## [2.1.3] - 2015/11/16
+### eklendi
+- UnityAds ekle
+### Sabit
+- Crash zaman son oyunu.
+- Game Over birçok düğme var.
+
+## [2.1.2] - 2015/09/16
+### Sabit
+- Ağdan eşitleme yaparken smootly ağa & yapım gelen Arama servisi diyalog bekliyor.
+
+## [2.1.1] - 2015/09/08
+### Sabit
+- Optimize ağ görev.
+- Taşı diyaloğu Sıralaması iletişim arkadaşlarınızı davet edin.
+
+## [2.1] - 2015/09/04
+### eklendi
+- Sosyal Sıralaması.
+- Facebook Friend List & Davet.
+- Bulut Sync.
+- Kakmak grafik kaynaklar.
+- Oyun oyna Hatırlatma.
+- Menü iletişim Kaydet / Yükle düğmesini koyun.
+- Ana oyuna daha fazla oyun taşıyın.
+- Iletişim üzerine oyun Facebook düğmesi koyun.
+- Koyun temalar ayarları diyaloğunu seçtiğiniz.
+
+## [2.0] - 2015/07/21
+### eklendi
+- Uygulama arayüzleri yükseltin.
+- Destek 26 daha fazla dil.
+- Destek paylaşımı puanı oynuyor.
+- Destek 2 daha oyun modu.
+- Destek 5 uygulama temalar.
+- Destek yükü ve çoklu oyunlar kaydedin.
+
+BİZİMLE İLETİŞİME GEÇ:
+ - http://www.senspark.com adresinden resmi sitemizi ziyaret et
+ - feedback@senspark.com adresinden bize geri bildirim gönder
+ - https://www.facebook.com/TeamSenspark adresinden bizi beğenip takip et

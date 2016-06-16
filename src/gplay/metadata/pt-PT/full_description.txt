@@ -1,0 +1,69 @@
+Bem-vindos ao fantástico mundo de Lines 98: um simples e interessante jogo clássico com um interface moderno e brilhante. Aposto que vais ficar apaixonado à primeira vista!
+
+JOGABILIDADE:
+ - Para o modo LINHA: pontua ao colocar consecutivamente 5 ou mais bolas da mesma cor em linhas retas (na vertical, horizontal ou diagonal)
+ - Para o modo QUADRADO: pontua ao colocar pelo menos 4 bolas da mesma cor para formar um retângulo ou quadrado
+ - Para o modo BLOCO: pontua ao colocar pelo menos 4 bolas da mesma cor juntas.
+Imagina jogar um jogo clássico com um estilo fantástico!
+Pontua o máximo que conseguires e desafia os teus amigos agora!
+
+CARACTERÍSTICAS:
+ - Jogabilidade viciante
+ Gráficos impressionantes que te deixarão empolgado e muito mais.
+ - Cinco e ainda mais temas para ti (preto, vermelho, azul, verde, madeira...)
+ - Bolas cada vez mais rápidas graças ao controlo de velocidade.
+ - Fácil de jogar, difícil de dominar.
+ - Guarda e carrega muitos jogos ao mesmo tempo!
+ - Partilha em redes sociais para desafiares os teus amigos!
+ - Tabela classificativa para veres amigos e concorrentes em tempo real!
+ - Entra para a tabela no ecrã de jogo ao mesmo tempo que jogas. JÁ NÃO PRECISAS DE ESPERAR QUE O JOGO TERMINE!
+ - Suporte para mais idiomas: inglês, chinês, francês, italiano, alemão, castelhano, neerlandês, russo...
+
+UPDATE:
+## [2.1.4] - 2016/01/12
+### Editado
+- Remova os anúncios de vídeo (UnityAds).
+### Fixo
+- Fix 5 bolas não explosão.
+
+## [2.1.3] - 2015/11/16
+### Adicionado
+- Adicionar UnityAds
+### Fixo
+- Bater quando o jogo final.
+- Game Over tem muitos botões.
+
+## [2.1.2] - 2015/09/16
+### fixo
+- Serviço de chamadas de rede smootly & tomada de diálogo de espera, enquanto a sincronização de rede.
+
+## [2,1,1] - 2015/09/08
+### fixo
+- Tarefa rede Optimize.
+- Move Convide diálogo para diálogo Ranking amigos.
+
+## [2,1] - 2015/09/04
+### Adicionado
+- Ranking social.
+- Amigo de Facebook Lista & convite.
+- Cloud Sync.
+- Criptografar recursos gráficos.
+- Jogar jogo Lembrete.
+- Coloque o botão Salvar / Carregar em diálogo menu.
+- Mova mais jogo para jogo principal.
+- Coloque o botão Facebook ao jogo diálogo acabou.
+- Coloque selecionar temas no diálogo de configurações.
+
+## [2,0] - 2015/07/21
+### Adicionado
+- Atualize interfaces de aplicativos.
+- Suporte mais 26 idiomas.
+- Pontuação partilha de Apoio ao jogar.
+- Suporte mais 2 modos de jogo.
+- Temas de Apoio 5 de aplicativos.
+- Suporte de carga e salvar vários jogos.
+
+CONTACTA-NOS:
+ - Visita o nosso site oficial em http://www.senspark.com
+ - Envia a tua opinião para feedback@senspark.com
+ - Gosta de nós e segue-nos em https://www.facebook.com/TeamSenspark

@@ -1,0 +1,1 @@
+Interesants klasiskā spēle ar pārsteidzošu lietotāja interfeisu.

@@ -1,0 +1,69 @@
+Witaj w cudownym świecie Line 98. To prosta, klasyczna i fascynująca gra o przyjaznym i pięknym interfejsie. Jesteśmy pewni, że od razu ją pokochasz.
+
+ROZGRYWKA:
+ - W trybie LINII: zdobywaj punkty za ułożenie 5 lub więcej kulek o tym samym kolorze w jednej linii (pionowo, poziomo lub ukośnie)
+ - W trybie KWADRATU: zdobywaj punkty za ułożenie przynajmniej 4 kulek o tym samym kolorze w kształt kwadratu lub prostokąta
+ - W trybie BLOKÓW: zdobywaj punkty za ułożenie przynajmniej 4 kulek o tym samym kolorze obok siebie.
+Graj w tę słynną grę w fantastycznym stylu!
+Zdobywaj jak najwięcej punktów i rywalizuj ze swoimi znajomymi!
+
+ZALETY:
+ - Wciągająca rozgrywka
+ - Piękna, ekscytująca grafika
+ - Ponad pięć wariantów wyglądu planszy (czarna, czerwona, niebieska, zielona, drewniana, ...)
+ - Kontrolowana prędkość kulek
+ - Prosta lecz wymagająca rozgrywka
+ - Możliwość zapisu i ładowania wielu gier
+ - Publikowanie w sieciach społecznościowych, gra ze znajomymi
+ - Tablica liderów pozwala na obserwowanie znajomych i konkurentów w czasie rzeczywistym
+ - Wyślij swój wynik w trakcie gry, nie czekając na jej zakończenie!
+ - Więcej języków: angielski, chiński, francuski, włoski, niemiecki, hiszpański, holenderski, rosyjski, ...
+
+AKTUALIZACJA:
+## [2.1.4] - 12.01.2016
+### Redakcja
+- Usuń reklamy wideo (UnityAds).
+### Stały
+- Fix 5 nie kule eksplozji.
+
+## [2.1.3] - 16.11.2015
+### W dodatku
+- Dodaj UnityAds
+### Stały
+- Błąd podczas koniec gry.
+- Game Over mają wiele przycisków.
+
+## [2.1.2] - 16.09.2015
+### Poprawiono
+- Usługa Połączenia z sieci smootly & podejmowania czeka okno podczas synchronizacji z siecią.
+
+## [2.1.1] - 8.09.2015
+### Poprawiono
+- Zadaniem sieci Optymalizacja.
+- Przenieś Zaproś znajomych dialogowe do Ranking okno.
+
+## [2.1] - 4.09.2015
+### Dodano
+- Ranking Społecznej.
+- Facebook Friend List i zaproszenie.
+- Cloud Sync.
+- Zasoby graficzne Szyfrowanie.
+- Zagraj Przypomnienie.
+- Umieść przycisk Zapisz / Wczytaj w oknie menu.
+- Przesuń Więcej grę do głównej gry.
+- Umieść przycisk Facebook do gry na oknie.
+- Załóż tematy wybrać się okno ustawień.
+
+## [2.0] - 21.07.2015
+### Dodano
+- Zmień interfejsów aplikacji.
+- Obsługa 26 więcej języków.
+- Podział Pomoc wynik podczas gry.
+- Wsparcie 2 więcej trybów gry.
+- Wsparcie 5 aplikacji tematów.
+- Obciążenie Pomoc i zapisać wiele gier.
+
+KONTAKT:
+ - Oficjalna strona internetowa: http://www.senspark.com
+ - Wysyłaj uwagi na adres feedback@senspark.com
+ - Polub i śledź nas na https://www.facebook.com/TeamSenspark

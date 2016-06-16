@@ -1,0 +1,69 @@
+Välkommen till Lines 98:s underbara värld. Det här är ett enkelt, intressant klassiskt spel men med ett fantastiskt och spännande användargränssnitt. Vi är övertygade om att du kommer att falla för det direkt!
+
+SPELANVISNINGAR:
+ - I RAD-läget: arrangera 5 eller fler bollar i samma färg efter varandra i en rak linje för att få poäng (vertikalt, horisontellt eller diagonalt)
+ - I FYRKANTS-läget: arrangera minst 4 bollar i samma färg i en kvadrat eller rektangel för att få poäng
+ - I BLOCK-läget: arrangera minst 4 bollar i samma färg nära varandra för att få poäng.
+Tänk dig att du spelar ett berömt spel med en underbar stil!
+Ta så många poäng du kan och utmana dina vänner nu!!!
+
+FUNKTIONER:
+ - Vanebildande spel
+ - Imponerande grafik som kommer att göra dig extra glad.
+ - Fem eller fler teman för dig (svart, rött, blått, grönt, trä...)
+ - Bollarna kan förflytta sig snabbare och snabbare med hastighetskontrollen.
+ - Enkelt att spela, utmanande att behärska.
+ - Spara och ladda många spel samtidigt!
+ - Dela på sociala nätverk - besegra dina vänner nu!
+ - Ledartavlor så att du kan följa dina vänner och motståndare i realtid!
+ - Registrera ditt bästa resultat på spelskärmen medan du spelar. DU BEHÖVER INTE LÄNGRE VÄNTA TILLS SPELET ÄR AVSLUTAT!
+ - Stöd för fler språk: engelska, kinesiska, franska, italienska, tyska, spanska, holländska, ryska...
+
+UPPDATERING:
+## [2.1.4] - 2016/01/12
+### Edited
+- Ta bort annonser video (UnityAds).
+### Fast
+- Fix 5 bollar inte explosion.
+
+## [2.1.3] - 2015/11/16
+### Lade till
+- Lägg UnityAds
+### Fast
+- Crash när slutspelet.
+- Game Over har många knappar.
+
+## [2.1.2] - 2015/09/16
+### Fast
+- Ringa service från nätverket smootly & gör väntar dialog medan synkronisering från nätverket.
+
+## [2.1.1] - 2015/09/08
+### Fast
+- Optimera nätverks uppgift.
+- Flytta Bjud dialogrutan till dialogrutan Ranking vänner.
+
+## [2,1] - 2015/09/04
+### Added
+- Social Ranking.
+- Facebook vänlista & inbjudan.
+- Cloud Sync.
+- Resurser Kryptera grafik.
+- Spela spel Påminnelse.
+- Sätt Spara / Läsa i dialogrutan menyn.
+- Flytta Mer spel till huvudspelet.
+- Sätt Facebook-knappen till spel över dialogen.
+- Sälj teman väljer i dialogrutan inställningar.
+
+## [2,0] - 2015/07/21
+### Added
+- Uppgradera programgränssnitt.
+- Stöd ytterligare 26 språk.
+- Erfarenhetsutbyte poäng när du spelar.
+- Stöd ytterligare 2 spellägen.
+- Stöd 5 applikations teman.
+- Stöd ladda och spara flera spel.
+
+KONTAKTA OSS:
+ - Besök vår officiella webbplats på http://www.senspark.com
+ - Lämna feedback via feedback@senspark.com
+ - Gilla och följ oss på https://www.facebook.com/TeamSenspark

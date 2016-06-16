@@ -1,0 +1,27 @@
+Tervetuloa ihmeelliseen maailmaan Lines 98, se on yksinkertainen mielenkiintoinen klassinen peli. Kuitenkin se on loistava ja viileä käyttöliittymä, voimme varmasti rakastamaan sitä ensimmäisellä kerralla!
+
+Peli:
+- For LINE tila: tee pisteet järjestämällä 5 tai enemmän palloja on sama väri peräkkäin suoria viivoja (vaakasuoraan, pystysuoraan tai vinottain)
+- Neliskulmaisia tila: tee pisteet järjestämällä vähintään 4 palloa samaa väriä muodostavat suorakulmion tai neliön
+- Lohko-tila: tee pisteet järjestämällä vähintään 7 pallot on sama väri lähellä toisiaan.
+
+Kuvittele pelata kuuluisa peli fantastinen tyylillä!
+Tehdään niin monta tulokset kuin voit ja haastaa ystäväsi nyt !!!
+
+OMINAISUUDET:
+- Addictive pelattavuus
+- Vaikuttava grafiikka, joka tekee sinusta tuntuu innoissaan ja enemmän.
+- Viisi ja lisää teemoja sinulle (musta, punainen, sininen, vihreä, puu, ...)
+- Pallot liikkuu nopeammin ja nopeammin pallot nopeuden säätö.
+- Helppo pelata, haastava hallita.
+- Save & ladata monia pelejä samanaikaisesti nyt!
+- Sosiaalinen verkosto jakaminen, anna päihittää kaverit juuri nyt!
+- Global pistetaulukot katsella ystävillesi ja kilpailijat reaaliajassa!
+- Lähetä ennätyksensä kanssa pelin näytön pelatessa, EI tarvitse odottaa pelin päätyttyä enää!
+- Tuki useita kieliä: Englanti, Kiina, Ranska, Italia, Saksa, Espanja, Hollanti, Venäjä ...
+
+
+OTA MEIHIN YHTEYTTÄ:
+- Käy virallisella sivustolla osoitteessa http://www.senspark.com
+- Lähetä palautetta kautta feedback@senspark.com
+- Like & seurata https://www.facebook.com/TeamSenspark
