@@ -1,69 +1,79 @@
-Chào mừng bạn đến với Lines 98, một trò chơi kinh điển cực kỳ hấp dẫn. Với giao diện cực KOOL và dễ dàng sử dụng, chúng tôi chắc chắn bạn sẽ thích ngay lập tức!it at the first time!
+Welcome to the wonderful world of Lines 98, it is a simple interesting classical board game. However it has a deluxe user interface, we sure you will love it at the first time!
 
-CHẾ ĐỘ CHƠI:
-- Chế độ ĐƯỜNG THẲNG: ghi điểm bằng cách xếp 5 trái bóng cùng màu hay nhiều hơn theo đường thẳng.
-- Chế độ HÌNH CHỮ NHẬT: ghi điểm bằng cách xếp ít nhất 4 trái bóng cùng màu theo hình chữ nhật.
-- Chế độ KHỐI: ghi điểm bằng cách xếp ít nhất 7 trái bóng cùng màu gần nhau.
+GAME PLAY:
 
-Hãy tạo nhiều điểm nhất có thể và thử thách các bạn bè của bạn!!!
+- For LINE mode: make score by arranging 5 or more balls of the same color consecutively in straight lines (vertically, horizontally or diagonally)
+- For SQUARE mode: make score by arranging at least 4 balls of the same color to form a rectangle or square
+- For BLOCK mode: make score by arranging at least 7 balls of the same color close together.
 
-NỔI BẬT:
-- Trò chơi cực kỳ gây nghiện.
-- Đồ họa cực kỳ bắt mắt khiến bạn sẽ rất thích thú.
-- Hỗ trợ sẵn 5 chủ đề giao diện và có thể nhiều hơn nữa trong tương lai để bạn chọn.
-- Đã hỗ trợ chỉnh tốc độ của bóng.
-- Dễ chơi nhưng khó để chơi hay.
-- Có thể lưu và mở lại nhiều ván chơi.
-- Hỗ trợ chia sẻ với bạn bè.
-- Hỗ trợ bảng điểm trên toàn cầu để xem điểm số của những đối thủ khác.
-- Cập nhật điểm cao của bạn cùng với hình ảnh khi đang chơi mà kô cần phải kết thúc ván chơi nữa.
-- Hỗ trợ nhiều ngôn ngữ như: Anh, Trung Quốc, Pháp, Ý, Đức, Tây Ban Nha, Hà Lan, Nga...
+Imagine you play a famous game in fantastic style!
+Let's make as many scores as you can and challenge your friends now!!!
 
-CẬP NHẬT:
-## [2.1.4] - 2016-01-11
-### Cập nhật
-- Xoá quảng cáo video UnityAds.
-### Sửa lỗi
-- Sửa lỗi 5 banh liên tiếp không nổ.
+FEATURES:
+- Addictive gameplay
+- Impressive graphics that will make you feel excited and more.
+- Five and more themes for you (black, red, blue, green, wood, ...)
+- Balls will move faster and faster with balls speed control.
+- Easy to play, challenging to master.
+- Save & load many games at the same time now!
+- Social network sharing, let beat your friends right now!
+- Global leaderboards to watch your friends and competitors in real time!
+- Submit your high score with game screen while playing, DO NOT NEED TO WAIT FOR GAME ENDED GAME ANY MORE!
+- Support many languages: English, Chinese, French, Italian, German, Spanish, Dutch, Russian...
+
+UPDATE:
+## [2.1.4] - 2016-01-12
+### Edited
+- Remove ads video (UnityAds).
+### Fixed
+- Fix 5 balls in line not explosion.
 
 ## [2.1.3] - 2015-11-16
-### Thêm
-- Thêm UnityAds
-### Sửa lỗi
-- Crash lúc kết thúc game
-- Game Over có quá nhiều nút.
+### Added
+- Add UnityAds
+### Fixed
+- Crash when end game.
+- Game Over have many buttons.
 
-## [2.1.2] - 2015/09/16
-### Sửa lỗi
-- Làm mượt các thao tác liên quan đến mạng và xuất hiện hộp thoại chờ khi đồng bộ.
+## [2.1.2] - 2015-09-16
+### Fixed
+- Calling service from network smootly & making waiting dialog while sync from network.
 
-## [2.1.1] - 2015/09/08
-### Sửa lỗi
-- Tối ưu sử dụng mạng.
-- Dời hộp thoại Mời bạn bè tới hộp thoại Xếp hạng xã hội.
+## [2.1.1] - 2015-09-08
+### Fixed
+- Optimize network task.
+- Move Invite friends dialog to Ranking dialog.
 
 ## [2.1] - 2015-09-04
-### Thêm
-- Xếp hạng trên xã hội.
-- Danh sách bạn bè Facebook & mời bạn bè.
-- Đồng bộ hoá dữ liệu.
-- Mã hoá tài nguyên đồ họa.
-- Chức năng nhắc nhở.
-- Đặt nút Save / Load trong hộp thoại menu.
-- Di chuyển nút các game khác đến màn chơi chính.
-- Đặt nút Facebook trên cửa sổ Game Over.
-- Nút chủ đề được đặt trong menu chính.
+### Added
+- Social Ranking.
+- Facebook Friend List & Invitation.
+- Cloud Sync.
+- Encrypt graphics resources.
+- Play game Reminder.
+- Put Save/Load button in menu dialog.
+- Move More game to main game.
+- Put Facebook button to game over dialog.
+- Put themes select in settings dialog.
 
-## [2.0] - 2015-07-21
-### Thêm
-- Nâng cấp giao diện ứng dụng.
-- Hỗ trợ 27 ngôn ngữ.
-- Hỗ trợ chia sẻ điểm số khi chơi.
-- Hỗ trợ thêm 2 chế độ chơi.
-- Hỗ trợ 5 chủ đề ứng dụng.
-- Hỗ trợ tải và lưu nhiều trò chơi.
+## [2.0] - 2015–07-21
+### Added
+- Upgrade application interfaces.
+- Support 26 more languages.
+- Support sharing score when playing.
+- Support 2 more game modes.
+- Support 5 application themes.
+- Support load and save multiple games.
 
-LIÊN LẠC:
-- Trang chủ: http://www.senspark.com 
-- Phản hồi: feedback@senspark.com 
-- Fanpage: https://www.facebook.com/TeamSenspark
+CONTACT US: 
+- Visit our official site at http://www.senspark.com 
+- Send your feedback via feedback@senspark.com 
+- Like & follow on https://www.facebook.com/TeamSenspark
+
+SENSPARK Game Studio is the studio behind the success of the top download classic casual games: Gold Miner, Shoot Dinosaur Eggs, Jewel, Chess ...
+
+Cùng từ nhà phát triển game Đào Vàng, Bắn Trứng, Kim cương, Cờ tướng … với hàng triệu người chơi.
+
+Trò chơi di động miễn phí hay nhất ở Việt Nam!
+
+Đây là game line 98 game kinh dien mọi người đều yêu thích. Line 98 cuc hay, hấp dẫn giới văn phòng. Bạn hãy chơi ngay line 98 game kinh điển. Game line 98 tốt nhất trên store.
