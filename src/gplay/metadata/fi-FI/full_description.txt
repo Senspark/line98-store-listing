@@ -19,50 +19,6 @@ OMINAISUUDET:
  – lähetä ennätyksesi peliruudussa pelin aikana – pelin loppumista ei tarvitse enää odottaa!
  – tukee useaa kieltä: englanti, espanja, hollanti, italia, kiina, ranska, saksa, venäjä...
 
-UPDATE:
-## [2.1.4] - 12.1.2016
-### Muokattu
-- Poista mainokset video (UnityAds).
-### Kiinteä
-- Fix 5 palloa ei räjähdystä.
-
-## [2.1.3] - 11.16.2015
-### Lisätty
-- Lisää UnityAds
-### Kiinteä
-- Crash kun loppupelin.
-- Game Over on paljon painikkeita.
-
-## [2.1.2] - 16.9.2015
-### Kiinteä
-- Calling palvelu verkko smootly & tekeminen odottaa dialogi kun synkronoinnin verkkoon.
-
-## [2.1.1] - 08.9.2015
-### Kiinteä
-- Optimoi verkon tehtävä.
-- Siirrä Kutsu ystäviä valintaikkuna Ranking dialogi.
-
-## [2.1] - 04.9.2015
-### Lisätty
-- Sosiaalinen Ranking.
-- Facebook Friend List & Kutsu.
-- Cloud Sync.
-- Salaa grafiikka resursseja.
-- Pelaa peliä Muistutus.
-- Laita Tallenna / Lataa-painiketta valikossa dialogi.
-- Liikkua enemmän pelin tärkein peli.
-- Laita Facebook-painiketta pelin yli dialogi.
-- Laita Teemat Valitse kohdassa Asetusvalintaikkuna.
-
-## [2.0] - 21.07.2015
-### Lisätty
-- Päivitys sovelluksen rajapintoja.
-- Tuki 26 muuta kieltä.
-- Tuki jakaminen pisteet pelatessa.
-- Tuki 2 enemmän pelitilaa.
-- Tuki 5 sovellus teemoja.
-- Tuki kuormitus ja tallentaa useita pelejä.
-
 OTA YHTEYTTÄ:
  – käy virallisilla sivuillamme osoitteessa http://www.senspark.com
  – lähetä palautetta osoitteeseen feedback@senspark.com

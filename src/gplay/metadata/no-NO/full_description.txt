@@ -19,50 +19,6 @@ SPILLINNHOLD:
  – Send inn toppscoreren din med et skjermbilde mens du spiller.  DU TRENGER IKKE LENGRE VENTE TIL SPILLET ER SLUTT!
 – Flere språk støttes: Engelsk, kinesisk, fransk, italiensk, tysk, spansk, nederlandsk, russisk ...
 
-UPDATE:
-## [2.1.4] - 2016-01-12
-### Redigert
-- Fjern annonser video (UnityAds).
-### Fast
-- Fiks 5 baller ikke eksplosjons.
-
-## [2.1.3] - 2015-11-16
-### La til
-- Legg UnityAds
-### Fast
-- Crash når sluttspillet.
-- Game Over har mange knapper.
-
-## [2.1.2] - 2015-09-16
-### Fast
-- Calling tjeneste fra nettverket smootly & making venter dialog mens sync fra nettverket.
-
-## [2.1.1] - 2015-09-08
-### Fast
-- Optimaliser nettverk oppgave.
-- Flytt Inviter venner dialogboksen til Ranking dialog.
-
-## [2,1] - 2015-09-04
-### lagt
-- Social Ranking.
-- Facebook Friend List & Invitation.
-- Cloud Sync.
-- Krypter grafikk ressurser.
-- Spill spillet Påminnelse.
-- Sett Save / Load knappen i dialogmenyen .
-- Flytt Mer spillet til hovedspillet.
-- Sett Facebook-knappen for å game over dialogen.
-- Put temaer velger i dialogboksen Innstillinger.
-
-## [2,0] - 2015-07-21
-### lagt
-- Oppgradering applikasjonsgrensesnitt.
-- Støtte 26 flere språk.
-- Deling Support poengsum når du spiller.
-- Støtte 2 flere spillmoduser.
-- Støtte 5 applikasjons temaer.
-- Støtte last og lagre flere spill.
-
 KONTAKT OSS:
 – Besøk den offisielle siden vår på http://www.senspark.com
 – Send tilbakemelding via feedback@senspark.com
