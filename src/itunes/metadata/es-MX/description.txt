@@ -1,0 +1,25 @@
+Bienvenido al maravilloso mundo de Lines 98, un juego clásico interesante y sencillo, pero con una interfaz de usuario excelente y moderna, ¡estamos seguros de que te encantará desde la primera vez que lo uses!
+
+REGLAS DEL JUEGO:
+ - Para el modo de LÍNEAS: consigue puntos colocando 5 bolas o más juntas del mismo color en línea recta (verticalmente, horizontalmente o diagonalmente)
+ - Para el modo de CUADRADOS: consigue puntos colocando al menos 4 bolas del mismo color para formar un rectángulo o un cuadrado
+ - Para el modo de BLOQUES: consigue puntos colocando al menos 4 bolas del mismo color juntas.
+¡Imagínate que juegas a un famoso juego pero con estilo!
+¡¡Obtén el mayor número de puntos que puedas y reta a tus amigos ahora!!
+
+CARACTERÍSTICAS:
+ - Juego adictivo
+ - Gráficos impresionantes que te entusiasmarán y mucho más.
+ - Cinco temas y más para ti (negro, rojo, azul, verde, madera,...)
+ - Las bolas se moverán cada vez más deprisa con el control de velocidad.
+ - Fácil de jugar, un reto controlarlo.
+ - ¡Guarda y carga varias partidas al mismo tiempo ahora!
+ - Puedes compartirlo en tus redes sociales, ¡vence a tus amigos ahora!
+ -¡Comprueba qué lugar ocupan tus amigos y competidores en la tabla de clasificación en tiempo real!
+ - Envía tus puntuaciones más altas a través de la pantalla del juego mientras juegas, ¡YA NO TENDRÁS QUE ESPERAR A QUE EL JUEGO TERMINE!
+ - Soporte para más idiomas: inglés, chino, francés, italiano, alemán, español, holandés, ruso,...
+
+CONTACTO:
+ - Visita nuestro sitio oficial en http://www.senspark.com
+ - Envíanos tus comentarios a feedback@senspark.com
+ - Dale a me gusta y síguenos en https://www.facebook.com/TeamSenspark

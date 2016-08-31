@@ -1,0 +1,25 @@
+Velkommen til Lines 98's vidunderlige verden - det er et simpelt, interessant klassisk spil. Men det har en fantastisk og cool brugergrænseflade, som vi er overbeviste om, at du vil elske med det samme.
+
+GAMEPLAY:
+ - LINJE-tilstand: Scor ved at arrangere 5 eller flere bolde af samme farve ved siden af hinanden i en ret linje (vertikalt, horisontalt eller diagonalt)
+ - FIRKANT-tilstand: Scor ved at arrangere mindst 4 bolde af samme farve i en rektangel eller firkant
+ - BLOK-tilstand: Scor ved at arrangere mindst 4 bolde i samme farve tæt på hinanden.
+Forestil dig, at du spiller et berømt fantastisk stilfuldt spil!
+Lad os score så meget som du kan og udfordre dine venner nu!!!
+
+FUNKTIONER:
+ - Vanedannende gameplay
+ - Imponerende grafik, der vil begejstre dig.
+ - Over fem temaer til dig (sort, rød, blå, grøn, træ, ...)
+ - Boldene bevæger sig hurtigere og hurtigere med fartkontrol af boldene.
+ - Nemt at spille, svært at mestre.
+ - Gem & hent nu mange spil på samme tid!
+ - Del på sociale netværk, lad os slå dine venner lige nu!
+ - Rangliste, hvor du kan følge dine venner og konkurrenter i realtid!
+ - Indsend din topscore fra spilskærmen mens du spiller, DU BEHØVER IKKE LÆNGERE AT VENTE PÅ, AT SPILLET ER AFSLUTTET!
+ - Understøttelse af flere sprog: Engelsk, kinesisk, fransk, italiensk, tysk, spansk, hollandsk, russisk, ...
+
+KONTAKT OS:
+ - Besøg vores officielle side påt http://www.senspark.com
+ - Send din respons via feedback@senspark.com
+ - Like & følg os på https://www.facebook.com/TeamSenspark
