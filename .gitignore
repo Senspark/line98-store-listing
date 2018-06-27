@@ -3,3 +3,5 @@ itunes/screenshots
 gplay/*.jpg
 gplay/*.png
 gplay/metadata
+itunes/metadata
+.DS_Store
