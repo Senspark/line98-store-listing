@@ -1,27 +1,25 @@
-Bienvenue dans le monde merveilleux des lignes 98, il est un jeu classique intéressant simple. Toutefois, il a une interface utilisateur brillante et cool, nous sûr que vous allez l'adorer à la première fois!
+Bienvenue dans le monde merveilleux de Lines 98, c'est un jeu classique, simple et intéressant. Mais il offre une interface géniale et agréable, nous sommes certains que vous allez l'aimer au premier regard !
 
-JEU DE JEU:
-- Pour le mode LINE: faire des notes en organisant 5 boules ou plus de la même couleur consécutivement dans les lignes droites (verticalement, horizontalement ou en diagonale)
-- Pour le mode SQUARE: make score en disposer au moins 4 boules de la même couleur pour former un rectangle ou carré
-- Pour le mode BLOCK: make score en disposer au moins 7 boules de la même couleur rapprochées.
+JOUABILITÉ :
+ - Dans le mode LIGNE : réalisez des scores en arrangeant 5 balles ou plus de couleur identique consécutivement dans des lignes droites (horizontalement, verticalement ou diagonalement)
+ - Dans le mode CARRÉ : réalisez des scores en arrangeant au moins 4 balles de couleur identique pour former un rectangle ou un carré
+ - Dans le mode BLOC : réalisez des scores en arrangeant au moins 4 balles adjacentes de couleur identique.
+Imaginez-vous en train de jouer à un jeu populaire dans un style fantastique !
+Réalisez le plus grand score possible et défiez vos amis maintenant !!!
 
-Imaginez que vous jouez à un jeu célèbre dans le style fantastique!
-Faisons autant de scores que vous pouvez et défier vos amis maintenant !!!
+CARACTÉRISTIQUES
+ - Jouabilité addictive
+ - Des graphismes impressionnants qui vous donnent envie de jouer.
+ - Cinq thèmes et plus vous sont proposés (noir, rouge, bleu, vert, bois...)
+ - Les balles se déplacent de plus en plus vite avec le contrôle de la vitesse des balles.
+ - Facile à jouer, difficile à maîtriser.
+ - Sauvegardez et chargez plusieurs parties en même temps !
+ - Partage sur les réseaux sociaux, battez vos amis maintenant !
+ - Un classement pour voir vos amis et vos adversaires en temps réel !
+ - Envoyez votre meilleur score avec la fonction de capture d'écran durant la partie, vous n'avez plus besoin d'attendre la fin de la partie !
+ - Plus de langues prises en charge : anglais, chinois, français, italien, allemand, espagnol, néerlandais, russe...
 
-FONCTIONNALITÉS:
-- Un jeu passionnant
-- Des graphismes impressionnants qui vous feront sentir excité et plus.
-- Cinq et plus de thèmes pour vous (noir, rouge, bleu, vert, bois, ...)
-- Balls va aller plus vite et plus rapide avec le contrôle des boules de vitesse.
-- Facile à jouer, difficile à maîtriser.
-- Enregistrer et charger de nombreux jeux en même temps!
-- Le partage de réseau social, laissez battre vos amis dès maintenant!
-- Classements mondiaux pour regarder vos amis et concurrents en temps réel!
-- Soumettre votre score élevé avec écran de jeu tout en jouant, NE PAS besoin d'attendre JEU TERMINÉ PLUS!
-- Soutien de nombreuses langues: anglais, chinois, français, italien, allemand, espagnol, néerlandais, russe ...
-
-
-CONTACTEZ NOUS:
-- Visitez notre site officiel à http://www.senspark.com
-- Envoyer vos commentaires via feedback@senspark.com
-- Comme & suivre sur https://www.facebook.com/TeamSenspark
+NOUS CONTACTER :
+ - Visitez notre site web officiel sur http://www.senspark.com
+ - Envoyez vos commentaires à feedback@senspark.com
+ - Aimez-nous et suivez-nous sur https://www.facebook.com/TeamSenspark

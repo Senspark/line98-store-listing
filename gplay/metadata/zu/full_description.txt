@@ -1,27 +1,27 @@
-Siyakwamukela nezwe elimangalisayo Lines 98, it is a simple ezithakazelisayo game classical. Nokho it has a brilliant & cool interface yomsebenzisi, thina isiqiniseko uzongithanda it ngesikhathi kuqala!
+Siyakwamukela nezwe elimangalisayo Lines 98, kuba elula ezithakazelisayo umdlalo we-classic. Nokho-ke has a brilliant & cool interface yomsebenzisi, thina isiqiniseko uzongithanda it ngesikhathi kuqala!
 
 GAME PLAY:
-- For LINE mode: ukwenza score ngokuhlela 5 noma ngaphezulu amabhola of the umbala ofanayo ngokulandelana in imigqa iqonde (zibheka, ukuyaphezulu noma ngokuphambeneyo)
-- For SQUARE mode: ukwenza score ngokuhlela okungenani 4 amabhola of the umbala ofanayo ukwakha isikwele noma isikwele
-- Block mode: ukwenza score ngokuhlela okungenani 7 amabhola of nangebala eduze kwenye.
+- Ukuze LINE Imodi: ukwenza isikolo ngokuhlela 5 noma ngaphezulu amabhola of nangebala ngokulandelana e imigqa eqondile (thwi, nendawo noma ngokuphambeneyo)
+- Ukuze SQUARE Imodi: ukwenza isikolo ngokuhlela okungenani 4 amabhola of nangebala ukwakha isikwele noma isikwele
+- Ukuze VIMBELA Imodi: ukwenza isikolo ngokuhlela okungenani 7 amabhola of nangebala eduze kwenye.
 
-Cabanga nje udlala umdlalo odumile ngesitayela kumnandi!
-Ake wenze izikolo abaningi ngangokunokwenzeka futhi inselele abangane bakho manje !!!
+Cabanga udlala umdlalo odumile ngesitayela kumnandi!
+Masenze izikolo eziningi ngangokunokwenzeka futhi inselele abangane bakho manje !!!
 
 EZIPHUMA:
 - Gameplay Yama
-- Ihluzo Umxhwele ukuthi kuzokwenza uzizwe ejabulile nokuningi.
-- Five nezingqikithi more ngawe (black, obomvu, oluhlaza okwesibhakabhaka, oluhlaza, izinkuni, ...)
-- Amabhola kuyoshukumisela ngokushesha nge control amabhola ngejubane.
-- Easy ukudlala, inselele ukuba inkosi.
-- Save & ukulayisha imidlalo eminingi ngesikhathi esifanayo manje!
+- Ihluzo Umxhwele ukuthi kuzokwenza uzizwe ujabule nokuningi.
+- Five izingqikithi ngawe (black, obomvu, oluhlaza okwesibhakabhaka, oluhlaza, ukhuni, ...)
+- Amabhola izoya ngokushesha nge control amabhola isivinini.
+- Easy ukudlala, inselele enkosini.
+- Londoloza ukulayisha imidlalo eminingi ngesikhathi esisodwa manje!
 - Social inethiwekhi ukwabelana, ake beat abangane bakho manje!
-- Wabaphambili Global ukubona abangane bakho kanye izimbangi ngesikhathi real!
-- Thumela isikolo sakho eliphezulu game screen ngenkathi edlala, ASIKHO ISIDINGO SOKUTHI Lindela GAME kwaqeda noma ikuphi OKWENGEZIWE!
-- Support izilimi eziningi: English, Chinese, isiFulentshi, isiNtaliyane, isiJalimane, iSipanishi, isiDashi, Russian ...
+- wabaphambili Global ukubukela abangane bakho kanye izimbangi ngesikhathi sangempela!
+- Thumela isikolo sakho okusezingeni eliphezulu nge game kwesikrini ngenkathi idlala, ASIKHO ISIDINGO ukulinda GAME iqediwe YILUPHI OKWENGEZIWE!
+- Support izilimi eziningi: English, Chinese, isiFulentshi, isiNtaliyane, isiJalimane, iSipanishi, isiDashi, isi-Russian ...
 
 
 XHUMANA NATHI:
 - Vakashela ingosi yethu engokomthetho at http://www.senspark.com
 - Thumela impendulo yakho nge feedback@senspark.com
-- Like & ukulandela https://www.facebook.com/TeamSenspark
+- Like & owalandelayo https://www.facebook.com/TeamSenspark

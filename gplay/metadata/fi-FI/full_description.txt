@@ -1,27 +1,25 @@
-Tervetuloa ihmeelliseen maailmaan Lines 98, se on yksinkertainen mielenkiintoinen klassinen peli. Kuitenkin se on loistava ja viileä käyttöliittymä, voimme varmasti rakastamaan sitä ensimmäisellä kerralla!
+Tervetuloa Lines 98:n ilahduttavaan maailmaan. Tämä peli on yksinkertainen, mielenkiintoinen ja tyyliltään klassinen, mutta siinä on siisti ja tyylikäs käyttöliittymä – pidät siitä varmasti heti!
 
-Peli:
-- For LINE tila: tee pisteet järjestämällä 5 tai enemmän palloja on sama väri peräkkäin suoria viivoja (vaakasuoraan, pystysuoraan tai vinottain)
-- Neliskulmaisia tila: tee pisteet järjestämällä vähintään 4 palloa samaa väriä muodostavat suorakulmion tai neliön
-- Lohko-tila: tee pisteet järjestämällä vähintään 7 pallot on sama väri lähellä toisiaan.
-
-Kuvittele pelata kuuluisa peli fantastinen tyylillä!
-Tehdään niin monta tulokset kuin voit ja haastaa ystäväsi nyt !!!
+PELAAMINEN
+ – KETJUT: kerää pisteitä asettamalla vähintään 5 samanväristä palloa suoraan viivaan (pysty- tai vaakasuoraan tai vinottain)
+ – NELIÖT: kerää pisteitä asettamalla vähintään 4 samanväristä palloa suorakulmioksi tai neliöksi
+ – TIILET: kerää pisteitä asettamalla vähintään 4 samanväristä palloa lähekkäin toisiaan.
+Tämä on kuuluisa pelimuoto mahtavalla ulkoasulla!
+Yritä kerätä mahdollisimman paljon pisteitä ja haasta ystäväsi!
 
 OMINAISUUDET:
-- Addictive pelattavuus
-- Vaikuttava grafiikka, joka tekee sinusta tuntuu innoissaan ja enemmän.
-- Viisi ja lisää teemoja sinulle (musta, punainen, sininen, vihreä, puu, ...)
-- Pallot liikkuu nopeammin ja nopeammin pallot nopeuden säätö.
-- Helppo pelata, haastava hallita.
-- Save & ladata monia pelejä samanaikaisesti nyt!
-- Sosiaalinen verkosto jakaminen, anna päihittää kaverit juuri nyt!
-- Global pistetaulukot katsella ystävillesi ja kilpailijat reaaliajassa!
-- Lähetä ennätyksensä kanssa pelin näytön pelatessa, EI tarvitse odottaa pelin päätyttyä enää!
-- Tuki useita kieliä: Englanti, Kiina, Ranska, Italia, Saksa, Espanja, Hollanti, Venäjä ...
+ – addiktoiva pelinkulku
+ – tyylikkäät ja innostavat grafiikat
+ – viisi teemaa (musta, punainen, sininen, vihreä, puu) ja muuta
+ – pallot liikkuvat kovempaa nopeussäätimellä
+ – helppo pelata, haastava hallita
+ – tallenna ja lataa useampi peli samaan aikaan!
+ – jakaminen sosiaalisissa verkoissa – voita ystäväsi!
+ – voittajatilasto, jossa voit seurata ystäviäsi ja kilpailijoitasi reaaliajassa!
+ – lähetä ennätyksesi peliruudussa pelin aikana – pelin loppumista ei tarvitse enää odottaa!
+ – tukee useaa kieltä: englanti, espanja, hollanti, italia, kiina, ranska, saksa, venäjä...
 
-
-OTA MEIHIN YHTEYTTÄ:
-- Käy virallisella sivustolla osoitteessa http://www.senspark.com
-- Lähetä palautetta kautta feedback@senspark.com
-- Like & seurata https://www.facebook.com/TeamSenspark
+OTA YHTEYTTÄ:
+ – käy virallisilla sivuillamme osoitteessa http://www.senspark.com
+ – lähetä palautetta osoitteeseen feedback@senspark.com
+ – tykkää meistä ja seuraa meitä: https://www.facebook.com/TeamSenspark

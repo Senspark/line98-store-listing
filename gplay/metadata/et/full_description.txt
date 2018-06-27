@@ -1,27 +1,27 @@
-Tere tulemast imeline maailm Lines 98, see on lihtne huvitavaid klassikalise mängu. Kuid see on geniaalne ja lahe kasutajaliides, me kindel, et sa armastad seda esimest korda!
+Tere tulemast imeline maailm Lines 98, see on lihtne huvitav klassikalise mängu. Kuid see on geniaalne ja cool kasutajaliides, me kindel, et sa armastad seda esimest korda!
 
 Mängu:
-- Liini režiim: teha skoor korraldades 5 või enam palli sama värvi järjest sirgjooneliselt (vertikaalselt, horisontaalselt või diagonaalselt)
-- Ruudukujulise režiim: teha skoor korraldades vähemalt 4 palli sama värvi moodustavad ristküliku või ruudu
-- Blokk režiim: teha skoor korraldades vähemalt 7 palli sama värvi lähestikku.
+- Suhe LINE viis: Kaubamärk punktisumma korrastades 5 või enam palli sama värvi järjest sirgetena (vertikaalselt, horisontaalselt või diagonaalselt)
+- ruudukujulise viis: Kaubamärk punktisumma korrastades vähemalt 4 palli sama värvi moodustamaks ristküliku või ruudu
+- Suhe BLOCK viis: Kaubamärk punktisumma korrastades vähemalt 7 palli sama värvi lähestikku.
 
-Kujutage ette, sa mängid kuulsa mängu fantastiline stiil!
+Kujutage ette, et mängida kuulsa mängu fantastiline stiil!
 Teeme nii palju punkte kui võimalik ja väljakutse oma sõpradele nüüd !!!
 
 OMADUSED:
-- Sõltuvust gameplay
-- Muljetavaldav graafika, mis teeb tunnete elevil ja rohkem.
-- Viis ja teemade teile (must, punane, sinine, roheline, puit, ...)
-- Pallid liiguvad kiiremini ja kiiremini pallid kiiruse reguleerimine.
+- sõltuvust gameplay
+- Muljetavaldav graafika, mis teeb tunnete meel ja rohkem.
+- Viis ja rohkem teemasid teile (must, punane, sinine, roheline, puit, ...)
+- kuulid liiguvad kiiremini ja kiiremini pallid kiiruse reguleerimine.
 - Lihtne mängida, raske master.
-- Save & laadida palju mänge samal ajal nüüd!
+- Salvesta ja laadige palju mänge samal ajal nüüd!
 - Sotsiaalne võrgustik jagamine, lase võita oma sõprade kohe!
-- Global edetabelid vaadata oma sõprade ja konkurendid reaalajas!
+- Global edetabelid vaadata oma sõprade ja konkurentide reaalajas!
 - Esitada oma kõrge skoor koos mängu ekraani mängides, ei pea ootama MÄNG LÕPPENUD enam!
-- Toetada paljudes keeltes: inglise, hiina, prantsuse, itaalia, saksa, hispaania, hollandi, vene ...
+- Toetus paljudes keeltes: inglise, hiina, prantsuse, itaalia, saksa, hispaania, hollandi, vene ...
 
 
 VÕTA MEIEGA ÜHENDUST:
-- Külasta meie ametlik veebileht aadressil http://www.senspark.com
-- Saada oma tagasiside kaudu feedback@senspark.com
-- Nagu & jätkuks https://www.facebook.com/TeamSenspark
+- Külasta meie ametlik aadressil http://www.senspark.com
+- saada oma tagasiside kaudu feedback@senspark.com
+- Nagu & järgnevad https://www.facebook.com/TeamSenspark

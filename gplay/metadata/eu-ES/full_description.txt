@@ -1,27 +1,27 @@
-Ongi Lines 98 mundua zoragarria da, simple interesgarria joko klasiko bat da. Hala ere bikain & cool erabiltzailearen interfaze bat du, ziur dugu maite izango duzu lehen aldiz at!
+Ongi Lines 98 mundu zoragarria da, simple interesgarri klasikoa joko bat da. Hala ere bikain & cool erabiltzailearen interfaze bat du, ziur dugun maitasuna izango duzu lehen aldiz at!
 
 GAME PLAY:
-- Lerro moduan For: puntuazio egiteko 5 edo gehiago kolore bereko bolak prestatzen segidan lerro zuzen ere (bertikalki, horizontalki edo diagonalki) arabera
-- SQUARE modua For: puntuazio egiteko gutxienez 4 kolore bereko bolak prestatzen laukizuzen bat edo plaza osatzeko arabera
-- BLOCK modua Pertsonentzat: puntuazio gutxienez 7 kolore bereko bolak prestatzen itxi elkarrekin.
+- lerro moduan For: puntuazio egiteko 5 edo gehiago kolore bereko bolak adosteko segidan lerro zuzen (bertikalki, horizontalki edo diagonalki) arabera
+- SQUARE modua For: puntuazio egiteko gutxienez 4 kolore bereko bolak adosteko laukizuzen edo karratu osatzeko arabera
+- BLOCK modua For: egiteko puntuazioa gutxienez 7 kolore bereko bolak adosteko itxi elkarrekin.
 
-Imajinatu ospetsua joko bat jokatu style fantastic duzu!
-Dezagun partiturak adina ahal duzun bezala, eta zure lagunak erronka orain !!!
+Imajinatu ospetsua joko bat jokatu style fantasiazko duzu!
+Dezagun puntuazioak asko bezala egiteko, ahal duzun bezala, eta zure lagunak erronka orain !!!
 
 EZAUGARRIAK:
 - Addictive jokatzeko
-- Harrigarria grafikoak duten ilusioa eta gehiago sentitzen duzu egingo.
-- Bost eta gai gehiago for you (beltza, gorria, urdina, berdea, egurra, ...)
-- Pilotak azkarrago eta azkarrago mugituko da pilotak abiadura kontrola.
-- Erraza, play maisu erronka.
-- Save & jokoak asko kargatu, aldi berean, gaur egun!
-- Sare sozialak, utzi beat zure lagunak oraintxe!
-- Sailkapenetako Global zure lagun eta lehiakide ikustera denbora errealean!
-- Bidali zure puntuaziorik Joko pantaila batekin jolasten bitartean, ez da beharrezkoa itxaron jokoa amaitu gehiago!
-- Laguntza hizkuntza askotan: ingelesa, txinera, frantsesa, italiera, alemana, gaztelania, alemana, errusiera ...
+- Ikusgarria grafiko ilusioa eta gehiago sentitzen duzu egingo.
+- Bost eta gaiak gehiagorako duzu (beltza, gorria, urdina, berdea, egurra, ...)
+- Pilotak azkarrago eta azkarrago mugituko da pilotak abiadura kontrolarekin.
+- Erraza, jolasteko nagusiari erronka.
+- Save & joko asko kargatu aldi berean orain!
+- sare sozialak, utzi beat zure lagunak oraintxe!
+- sailkapenak Global zure lagun eta lehiakide ikustera denbora errealean!
+- Aurkeztu zure puntuaziorik joko pantaila bitartean jolasten, ez da beharrezkoa itxaron joko bukatutako gehiago!
+- laguntza hizkuntza askotan: ingelesa, txinera, frantsesa, italiera, alemana, gaztelania, Holandako, errusiera ...
 
 
 JARRI GUREKIN HARREMANETAN:
-- Gure gune ofiziala bisitatu http://www.senspark.com at
-- Eusko Jaurlaritza feedback@senspark.com bidez
-- Like & jarraitu on https://www.facebook.com/TeamSenspark
+- Gure gune ofiziala bisitatu http://www.senspark.com tan
+- Bidali zure iritzia feedback@senspark.com bidez
+- Like & jarraitu https://www.facebook.com/TeamSenspark

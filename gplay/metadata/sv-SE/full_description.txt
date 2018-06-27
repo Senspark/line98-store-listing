@@ -1,27 +1,25 @@
-Välkommen till den underbara världen av linjer 98, är det en enkel intressant klassiska spel. Men det har en lysande och sval användargränssnitt, vi säkert kommer att älska det vid första gången!
+Välkommen till Lines 98:s underbara värld. Det här är ett enkelt, intressant klassiskt spel men med ett fantastiskt och spännande användargränssnitt. Vi är övertygade om att du kommer att falla för det direkt!
 
-GAME PLAY:
-- För LINE läge: göra poäng genom att arrangera 5 eller fler bollar av samma färg i följd i raka linjer (vertikalt, horisontellt eller diagonalt)
-- För SQUARE läge: göra poäng genom att anordna åtminstone 4 bollar av samma färg för att bilda en rektangel eller kvadrat
-- För BLOCK Läge: göra poäng genom att anordna åtminstone 7 bollar av samma färg nära varandra.
-
-Tänk dig att du spelar en berömda spelet i fantastiska stil!
-Låt oss göra så många poäng som du kan och utmana dina vänner nu !!!
+SPELANVISNINGAR:
+ - I RAD-läget: arrangera 5 eller fler bollar i samma färg efter varandra i en rak linje för att få poäng (vertikalt, horisontellt eller diagonalt)
+ - I FYRKANTS-läget: arrangera minst 4 bollar i samma färg i en kvadrat eller rektangel för att få poäng
+ - I BLOCK-läget: arrangera minst 4 bollar i samma färg nära varandra för att få poäng.
+Tänk dig att du spelar ett berömt spel med en underbar stil!
+Ta så många poäng du kan och utmana dina vänner nu!!!
 
 FUNKTIONER:
-- Beroendeframkallande gameplay
-- Imponerande grafik som får dig att känna upphetsad och mer.
-- Fem och fler teman för dig (svart, röd, blå, grön, trä, ...)
-- Bollar kommer gå snabbare och snabbare med bollar hastighetskontroll.
-- Lätt att spela, utmanande att bemästra.
-- Spara och ladda många spel samtidigt nu!
-- Social nätverksdelning, låt slå dina vänner just nu!
-- Global leaderboards för att titta på dina vänner och konkurrenter i realtid!
-- Skicka in din höga poäng med spelskärmen medan du spelar, inte behöver vänta på spelet slutade längre!
-- Stödja många språk: engelska, kinesiska, franska, italienska, tyska, spanska, holländska, ryska ...
-
+ - Vanebildande spel
+ - Imponerande grafik som kommer att göra dig extra glad.
+ - Fem eller fler teman för dig (svart, rött, blått, grönt, trä...)
+ - Bollarna kan förflytta sig snabbare och snabbare med hastighetskontrollen.
+ - Enkelt att spela, utmanande att behärska.
+ - Spara och ladda många spel samtidigt!
+ - Dela på sociala nätverk - besegra dina vänner nu!
+ - Ledartavlor så att du kan följa dina vänner och motståndare i realtid!
+ - Registrera ditt bästa resultat på spelskärmen medan du spelar. DU BEHÖVER INTE LÄNGRE VÄNTA TILLS SPELET ÄR AVSLUTAT!
+ - Stöd för fler språk: engelska, kinesiska, franska, italienska, tyska, spanska, holländska, ryska...
 
 KONTAKTA OSS:
-- Besök vår officiella hemsida på http://www.senspark.com
-- Skicka feedback via feedback@senspark.com
-- Som och följ på https://www.facebook.com/TeamSenspark
+ - Besök vår officiella webbplats på http://www.senspark.com
+ - Lämna feedback via feedback@senspark.com
+ - Gilla och följ oss på https://www.facebook.com/TeamSenspark

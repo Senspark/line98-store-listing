@@ -1,27 +1,25 @@
-Benvenuti nel meraviglioso mondo di linee 98, si tratta di un semplice gioco classica interessante. Tuttavia ha un brillante e fresco, interfaccia utente, siamo sicuri che lo amerete a la prima volta!
+Bevenuto nel meraviglioso mondo di Lines 98: un gioco classico, semplice ed entusiasmante, caratterizzato da un'interfaccia geniale ed accattivante. Siamo sicuri che ti piacerà fin dal primo istante!
 
 GIOCO:
-- Per la modalità LINE: fare punteggio organizzando 5 o più sfere dello stesso colore consecutivamente in linea retta (verticale, orizzontale o diagonale)
-- Per la modalità SQUARE: fare punteggio disponendo almeno 4 palline dello stesso colore per formare un rettangolo o un quadrato
-- Per la modalità BLOCCO: fare punteggio disponendo di almeno 7 palle dello stesso colore ravvicinati.
+- Modalità LINEE: accumula punti disponendo consecutivamente 5 o più palline dello stesso colore in modo da formare linee diritte (in senso verticale, orizzontale o diagonale)
+- Modalità QUADRATI: accumula punti disponendo almeno 4 palline dello stesso colore in modo da formare un rettangolo o un quadrato
+- Modalità CUBI: accumula punti disponendo l'una vicina all'altra almeno 4 palline dello stesso colore.
+Immagina di giocare a un famosissimo gioco, in grande stile!
+Guadagna quanti più punti possibili e sfida subito i tuoi amici!!!
 
-Immaginate si riproduce un famoso gioco in stile fantastico!
-Facciamo in modo che il maggior numero di punteggi che puoi e sfida i tuoi amici ora !!!
+CARATTERISTICHE
+- Entusiasmanti modalità di gioco
+- Grafiche incredibili per un divertimento ancora più grande.
+- Più di 5 temi disponibili (nero, rosso, blu, verde, legno...)
+- Le palline si muoveranno sempre più rapidamente grazie all'apposito controllo velocità.
+- Giocare è semplice, diventarne un esperto è una vera e propria sfida.
+- Ora puoi salvare e caricare più partite contemporaneamente!
+- Condivisione tramite social network: batti subito i tuoi amici!
+- Classifica per tenere d'occhio i risultati dei tuoi amici e dei tuoi rivali in tempo reale!
+- Invia il tuo record durante la partita usando la schermata di gioco, NON C'È PIÙ BISOGNO DI ATTENDERE LA CONCLUSIONE DELLA PARTITA! 
+- Sono supportate altre lingue: inglese, cinese, francese, italiano, tedesco, spagnolo, olandese, russo...
 
-CARATTERISTICHE:
-- Addictive gameplay
-- Grafica impressionante che vi farà sentire eccitato e molto altro ancora.
-- Cinque e più temi per voi (nero, rosso, blu, verde, legno, ...)
-- Palloni si muoverà sempre più velocemente con il controllo della velocità palle.
-- Facile da giocare, difficile da padroneggiare.
-- Salva e caricare molti giochi allo stesso tempo!
-- Social sharing della rete, per non battere i tuoi amici in questo momento!
-- Classifiche globali per guardare i vostri amici e concorrenti in tempo reale!
-- Invia il tuo punteggio più alto con schermo di gioco durante il gioco, NON necessario attendere partita si è conclusa più!
-- Supporto molte lingue: inglese, cinese, francese, italiano, tedesco, spagnolo, olandese, russo ...
-
-
-CONTATTACI:
+CONTATTI
 - Visita il nostro sito ufficiale all'indirizzo http://www.senspark.com
-- Invia i tuoi commenti via feedback@senspark.com
-- Come e segui su https://www.facebook.com/TeamSenspark
+- Inviaci il tuo feedback all'indirizzo feedback@senspark.com
+- Metti ""Mi piace"" e seguici sulla pagina https://www.facebook.com/TeamSenspark

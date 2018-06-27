@@ -1,27 +1,27 @@
 Bem-vindo ao maravilhoso mundo das Linhas 98, é um jogo clássico interessante simples. No entanto, tem uma interface brilhante e fresco, temos certeza que você vai amá-lo na primeira vez!
 
 JOGO DE JOGO:
-- Para o modo de linha: fazer pontuação, organizando 5 ou mais bolas da mesma cor consecutivamente em linhas retas (vertical, horizontal ou diagonal)
-- Para o modo QUADRADO: fazer pontuação, organizando pelo menos 4 bolas da mesma cor para formar um retângulo ou quadrado
+- Para modo de linha: fazer pontuação arranjando 5 ou mais bolas da mesma cor consecutivamente em linhas rectas (vertical, horizontal ou diagonal)
+- Para o modo QUADRADO: fazer pontuação por dispor pelo menos 4 bolas da mesma cor para formar um rectângulo ou quadrado
 - Para o modo BLOCK: fazer pontuação, organizando pelo menos 7 bolas da mesma cor próximas umas das outras.
 
-Imagine que você jogar um jogo famoso em grande estilo fantástico!
-Vamos fazer tantas pontuações e como você pode desafiar seus amigos agora !!!
+Imagine que você jogar um jogo famoso em estilo fantástico!
+Vamos fazer como muitos pontuação possível e desafiar seus amigos agora !!!
 
 CARACTERÍSTICAS:
 - Addictive gameplay
 - Gráficos impressionantes que vão fazer você se sentir animado e muito mais.
 - Cinco e mais temas para você (preto, vermelho, azul, verde, madeira, ...)
-- Bolas vai se mover mais rápido e mais rápido com o controle bolas de velocidade.
+- bolas irá mover mais rápido e mais rápido com bolas de controlo de velocidade.
 - Fácil de jogar, difícil de dominar.
 - Salvar e carregar vários jogos ao mesmo tempo agora!
-- Partilha de rede social, vamos vencer agora seus amigos!
-- Leaderboards globais para assistir seus amigos e concorrentes em tempo real!
-- Enviar sua pontuação mais alta com tela de jogo durante o jogo, não precisa de esperar por jogo terminou mais!
-- Suporte vários idiomas: Inglês, Chinês, Francês, Italiano, Alemão, Espanhol, Holandês, Russo ...
+- partilha de rede social, vamos bater agora seus amigos!
+- leaderboards globais para assistir seus amigos e concorrentes em tempo real!
+- Enviar sua pontuação mais alta com tela de jogo enquanto estiver jogando, não precisa de esperar por jogo terminou mais!
+- Suporte muitas línguas: Inglês, Chinês, Francês, Italiano, Alemão, Espanhol, Holandês, Russo ...
 
 
-NOS CONTATE:
+CONTATE-NOS:
 - Visite o nosso site oficial em http://www.senspark.com
 - Feedback via feedback@senspark.com
 - Como & siga em https://www.facebook.com/TeamSenspark

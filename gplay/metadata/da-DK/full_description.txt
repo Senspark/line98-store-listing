@@ -1,27 +1,25 @@
-Velkommen til den vidunderlige verden af Lines 98, det er en simpel interessant klassisk spil. Men det har en strålende & kølig brugergrænseflade, vi sikre på vil du elske det på første gang!
+Velkommen til Lines 98's vidunderlige verden - det er et simpelt, interessant klassisk spil. Men det har en fantastisk og cool brugergrænseflade, som vi er overbeviste om, at du vil elske med det samme.
 
-Spil:
-- For LINE mode: gør score ved at arrangere 5 eller flere kugler af samme farve hinanden i rette linier (lodret, vandret eller diagonalt)
-- For SQUARE mode: gør score ved at arrangere mindst 4 bolde af samme farve for at danne et rektangel eller firkantet
-- For BLOCK mode: gør score ved at arrangere mindst 7 kugler af samme farve tæt sammen.
-
-Forestil dig at spille en berømte spil i fantastisk stil!
-Lad os gøre så mange scoringer som du kan og udfordre dine venner nu !!!
+GAMEPLAY:
+ - LINJE-tilstand: Scor ved at arrangere 5 eller flere bolde af samme farve ved siden af hinanden i en ret linje (vertikalt, horisontalt eller diagonalt)
+ - FIRKANT-tilstand: Scor ved at arrangere mindst 4 bolde af samme farve i en rektangel eller firkant
+ - BLOK-tilstand: Scor ved at arrangere mindst 4 bolde i samme farve tæt på hinanden.
+Forestil dig, at du spiller et berømt fantastisk stilfuldt spil!
+Lad os score så meget som du kan og udfordre dine venner nu!!!
 
 FUNKTIONER:
-- Vanedannende gameplay
-- Imponerende grafik, der vil gøre dig føle sig glade og mere.
-- Fem og flere temaer for dig (sort, rød, blå, grøn, træ, ...)
-- Bolde vil bevæge sig hurtigere og hurtigere med bolde hastighedskontrol.
-- Let at spille, svært at mestre.
-- Gem & lægge mange spil på samme tid nu!
-- Social netværk deling, lad slå dine venner lige nu!
-- Globale leaderboards at se dine venner og konkurrenter i realtid!
-- Indsend din high score med spillet skærmen, mens du spiller, IKKE behøver at vente på spillet sluttede mere!
-- Støtte mange sprog: engelsk, kinesisk, fransk, italiensk, tysk, spansk, hollandsk, russisk ...
-
+ - Vanedannende gameplay
+ - Imponerende grafik, der vil begejstre dig.
+ - Over fem temaer til dig (sort, rød, blå, grøn, træ, ...)
+ - Boldene bevæger sig hurtigere og hurtigere med fartkontrol af boldene.
+ - Nemt at spille, svært at mestre.
+ - Gem & hent nu mange spil på samme tid!
+ - Del på sociale netværk, lad os slå dine venner lige nu!
+ - Rangliste, hvor du kan følge dine venner og konkurrenter i realtid!
+ - Indsend din topscore fra spilskærmen mens du spiller, DU BEHØVER IKKE LÆNGERE AT VENTE PÅ, AT SPILLET ER AFSLUTTET!
+ - Understøttelse af flere sprog: Engelsk, kinesisk, fransk, italiensk, tysk, spansk, hollandsk, russisk, ...
 
 KONTAKT OS:
-- Besøg vores officielle hjemmeside på http://www.senspark.com
-- Send din tilbagemelding via feedback@senspark.com
-- Ligesom & følg på https://www.facebook.com/TeamSenspark
+ - Besøg vores officielle side påt http://www.senspark.com
+ - Send din respons via feedback@senspark.com
+ - Like & følg os på https://www.facebook.com/TeamSenspark

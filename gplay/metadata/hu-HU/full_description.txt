@@ -1,11 +1,11 @@
-Üdvözöljük a csodálatos világ a vonalak 98, ez egy egyszerű érdekes klasszikus játék. Azonban van egy ragyogó és hűvös kezelőfelület, biztos szeretni fogja azt az első alkalommal!
+Üdvözöljük a csodálatos világ Lines 98, ez egy egyszerű érdekes klasszikus játék. Azonban van egy ragyogó és hűvös kezelőfelület, biztos szeretni fogja azt az első alkalommal!
 
 Játékmenet:
-- A LINE mód: make pontszám rendezi 5 vagy több golyó az azonos színű egymás után egyenes vonalban (vízszintesen, függőlegesen vagy átlósan)
-- Szögletes mód: make pontszám rendezi legalább 4 golyó az azonos színű, hogy egy téglalap vagy négyzet
-- A BLOCK mód: make pontszám rendezi legalább 7 golyó az azonos színű közel egymáshoz.
+- vonal mód: teszik pontszám rendezi 5 vagy több golyó az azonos színű egymás után, egyenes vonalak (függőlegesen, vízszintesen vagy átlósan)
+- A SQUARE mód: teszik pontszám elrendezésével legalább 4 golyó az azonos színű, hogy egy téglalap vagy négyzet
+- blokk mód: Márka pontszám rendezi legalább 7 golyó az azonos színű közel egymáshoz.
 
-Képzeld el, játszunk egy híres játék fantasztikus stílusban!
+Képzeld el, hogy játsszon egy híres játék fantasztikus stílusban!
 Legyen annyi pontszámot, amennyit csak tudsz, és kihívás a barátok most !!!
 
 JELLEMZŐK:
@@ -15,13 +15,13 @@ JELLEMZŐK:
 - Labda lesz gyorsabb és gyorsabb labdákat sebesség szabályozását.
 - Könnyű játszani, nehéz a mester.
 - Save & tölteni sok játékkal egyidejűleg most!
-- A szociális hálózati megosztás, legyen legyőzni a barátok most!
+- A szociális hálózat megosztása, legyen legyőzni a barátok most!
 - Globális ranglisták nézni a barátok és a versenytársak valós időben!
-- Küldje el magas pontszámot a játék képernyőn játék közben, nem kell várni a játék véget ért TÖBBÉ!
+- Küldje el magas pontszámot a játék képernyőn játék közben, nem kell várni a játék véget ért többé!
 - Támogatás több nyelven: angol, kínai, francia, olasz, német, spanyol, holland, orosz ...
 
 
 LÉPJEN KAPCSOLATBA VELÜNK:
 - Látogassa meg a hivatalos site-on http://www.senspark.com
 - Küldj visszajelzést keresztül feedback@senspark.com
-- Mint & követik https://www.facebook.com/TeamSenspark
+- Mint és kövesd a https://www.facebook.com/TeamSenspark

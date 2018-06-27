@@ -1,27 +1,25 @@
-Velkommen til den fantastiske verden av Lines 98, er det en enkel interessant klassiske spillet. Men det har en strålende og kul brukergrensesnitt, vi sikkert kommer til å elske det på første gang!
+Velkommen til den fantastiske Lines 98-verdenen, et enkelt og interessant klassisk spill. Spillet har et genialt og kult brukergrensesnitt, og vi er sikker på at du kommer til å like det med en gang!
 
-SPILL:
-- For LINE modus: lage poengsum ved å arrangere 5 eller flere kuler av samme farge etter hverandre i rette linjer (vertikalt, horisontalt eller diagonalt)
-- For SQUARE modus: lage poengsum ved å arrangere minst 4 baller av samme farge for å danne et rektangel eller kvadrat
-- For BLOCK modus: lage poengsum ved å arrangere minst 7 baller av samme farge tett sammen.
+SPILLFORLØP:
+ – For LINE-modus: du får poeng ved å sette fem eller flere baller av samme farge etter hverandre på en rett linje (vertikalt, horisontalt eller diagonalt)
+ – For SQUARE-modus: få poeng ved å lage et rektangel eller en firkant med minst fire baller av samme farge
+ – For BLOCK-modus: få poeng ved å plassere minst fire baller med samme farge tett etter hverandre.
+Se for deg at du spiller et kjent spill i en fantastisk stil!
+Prøv å få så mange poeng som mulig og utfordre vennene dine nå!!!
 
-Tenk deg at du spiller en berømt spill i fantastisk stil!
-La oss lage så mange poeng som du kan og utfordre vennene dine nå !!!
-
-EGENSKAPER:
-- Vanedannende gameplay
-- Imponerende grafikk som vil gjøre at du føler deg opphisset og mer.
-- Fem og flere temaer for deg (svart, rød, blå, grønn, tre, ...)
-- Balls vil bevege seg raskere og raskere med baller hastighetskontroll.
-- Enkelt å spille, vanskelig å mestre.
-- Lagre og laste inn mange spill på samme tid nå!
-- Sosiale nettverksdeling, la slå dine venner akkurat nå!
-- Global leaderboards for å se dine venner og konkurrenter i sanntid!
-- Send inn din high score med spillet skjermen mens du spiller, IKKE trenger å vente på spillet ble avsluttet LENGER!
-- Støtte mange språk: engelsk, kinesisk, fransk, italiensk, tysk, spansk, nederlandsk, russisk ...
-
+SPILLINNHOLD:
+– Vanedannende spilling
+– Imponerende grafikk som begeistrer stort.
+ – Du får mer enn fem tema (svart, rødt, blått, grønt, tre ...)
+– Ballene vil gå raskere og raskere med ballkontroll.
+– Enkelt å spille, utfordrende å virkelig mestre.
+– Lagre og last inn mange spill på en gang nå!
+– Deling på sosiale nettverk. Slå vennene dine nå med en gang!
+– Resultattavler der du kan følge med på venner og konkurrenter i sanntid!
+ – Send inn toppscoreren din med et skjermbilde mens du spiller.  DU TRENGER IKKE LENGRE VENTE TIL SPILLET ER SLUTT!
+– Flere språk støttes: Engelsk, kinesisk, fransk, italiensk, tysk, spansk, nederlandsk, russisk ...
 
 KONTAKT OSS:
-- Besøk vår offisielle hjemmeside på http://www.senspark.com
-- Send tilbakemelding via feedback@senspark.com
-- Like & følge på https://www.facebook.com/TeamSenspark
+– Besøk den offisielle siden vår på http://www.senspark.com
+– Send tilbakemelding via feedback@senspark.com
+– Lik og følg oss på https://www.facebook.com/TeamSenspark

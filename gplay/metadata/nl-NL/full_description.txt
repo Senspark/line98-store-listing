@@ -1,27 +1,25 @@
-Welkom in de wondere wereld van lijnen 98, is het een eenvoudige interessant klassieke spel. Maar het heeft een briljante & koele user interface, we zeker dat je zal houden bij de eerste keer!
+Welkom in de wondere wereld van Lines 98, een simpel, klassiek en interessant spel met een schitterende en coole bediening, dus je zult er direct dol op zijn!
 
-GAME PLAY:
-- Voor LINE-modus: maak score door het organiseren van 5 of meer ballen van dezelfde kleur achter elkaar in een rechte lijn (horizontaal, verticaal of diagonaal)
-- Voor SQUARE modus: maak score door het organiseren van ten minste 4 ballen van dezelfde kleur om een rechthoek of vierkant vormen
-- Voor BLOCK mode: maak score door het organiseren van ten minste 7 ballen van dezelfde kleur dicht bij elkaar.
-
-Stel je voor dat een beroemde spel in fantastische stijl!
-Laten we zo veel scoort als je kunt en daag je vrienden nu !!!
+GAMEPLAY:
+ - Voor speltype LIJN: scoor punten door 5 ballen of meer van dezelfde kleur op een rechte lijn te vinden (verticaal, horizontaal of diagonaal)
+ - Voor speltype VIERKANT: scoor punten door ten minste 4 ballen van dezelfde kleur in een vierkant of rechthoek te vinden.
+ - Voor speltype BLOK: scoor punten door ten minste 4 ballen van dezelfde kleur bij elkaar te brengen.
+Bedenk je een beroemd spel in een fantastische stijl!
+Haal de hoogst mogelijke score en daag je vrienden uit!
 
 KENMERKEN:
-- Verslavende gameplay
-- Indrukwekkende graphics die ervoor zorgt dat je enthousiast en meer voelen.
-- Vijf en meer thema's voor u (zwart, rood, blauw, groen, hout, ...)
-- Balls zal sneller en sneller te bewegen met ballen snelheidscontrole.
-- Makkelijk te spelen, uitdagende te beheersen.
-- Save & laden veel spellen op hetzelfde moment nu!
-- Social sharing netwerk, laat je vrienden te verslaan op dit moment!
-- Global leaderboards om uw vrienden en concurrenten te kijken in real time!
-- Dien uw hoge score met spel scherm tijdens het spelen, niet nodig om te wachten op wedstrijd eindigde niet meer!
-- Ondersteuning vele talen: Engels, Chinees, Frans, Italiaans, Duits, Spaans, Nederlands, Russisch ...
+ - Verslavende gameplay
+ - Indrukwekkende, opwindende graphics
+ - 5 en meer thema's (zwart, rood, blauw, groen, hout, ...)
+ - Stel de balsnelheid in via de bal-instellingen
+ - Gemakkelijk te spelen, maar ook uitdagend
+ - Verschillende spellen opslaan & laden!
+ - Delen via social media; probeer je vrienden te verslaan!
+ - Ranglijsten om je vrienden en concurrenten in de gaten te houden!
+ - Stuur je topscores in tijdens het spel. JE HOEFT NIET MEER TE WACHTEN TOT HET SPEL VOORBIJ IS!
+ - Beschikbaar in meer talen: Engels, Chinees, Frans, Italiaans, Duits, Spaans, Nederlands, Russisch, ...
 
-
-NEEM CONTACT MET ONS OP:
-- Bezoek onze officiële plaats bij http://www.senspark.com
-- Stuur uw terugkoppeling via feedback@senspark.com
-- Net & volg op https://www.facebook.com/TeamSenspark
+NEEM CONTACT OP:
+ - Bezoek onze officiële site: http://www.senspark.com
+ - Stuur ons je feedback via feedback@senspark.com
+ - Vind ons leuk en volg ons via https://www.facebook.com/TeamSenspark

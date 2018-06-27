@@ -1,27 +1,25 @@
-Bienvenido al maravilloso mundo de las líneas 98, se trata de un simple juego clásico interesante. Sin embargo, tiene una interfaz de usuario brillante y fresco, estamos seguros de que le encantará en la primera vez!
+Bienvenido al maravilloso mundo de Lines 98, un juego clásico interesante y sencillo, pero con una interfaz de usuario excelente y moderna, ¡estamos seguros de que te encantará desde la primera vez que lo uses!
 
-JUGAR:
-- Para el modo LINE: hacer que la puntuación mediante la organización de 5 o más bolas del mismo color consecutivamente en línea recta (vertical, horizontal o diagonal)
-- Para el modo SQUARE: hacer que la puntuación disponiendo al menos 4 bolas del mismo color para formar un rectángulo o cuadrado
-- Para el modo BLOQUE: hacer que la puntuación disponiendo al menos 7 bolas del mismo color juntos.
+REGLAS DEL JUEGO:
+ - Para el modo de LÍNEAS: consigue puntos colocando 5 bolas o más juntas del mismo color en línea recta (verticalmente, horizontalmente o diagonalmente)
+ - Para el modo de CUADRADOS: consigue puntos colocando al menos 4 bolas del mismo color para formar un rectángulo o un cuadrado
+ - Para el modo de BLOQUES: consigue puntos colocando al menos 4 bolas del mismo color juntas.
+¡Imagínate que juegas a un famoso juego pero con estilo!
+¡¡Obtén el mayor número de puntos que puedas y reta a tus amigos ahora!!
 
-Imagínese que usted juega un famoso juego en el estilo fantástico!
-Vamos a hacer la mayor puntuación que puedas y desafiar a sus amigos ahora !!!
+CARACTERÍSTICAS:
+ - Juego adictivo
+ - Gráficos impresionantes que te entusiasmarán y mucho más.
+ - Cinco temas y más para ti (negro, rojo, azul, verde, madera,...)
+ - Las bolas se moverán cada vez más deprisa con el control de velocidad.
+ - Fácil de jugar, un reto controlarlo.
+ - ¡Guarda y carga varias partidas al mismo tiempo ahora!
+ - Puedes compartirlo en tus redes sociales, ¡vence a tus amigos ahora!
+ -¡Comprueba qué lugar ocupan tus amigos y competidores en la tabla de clasificación en tiempo real!
+ - Envía tus puntuaciones más altas a través de la pantalla del juego mientras juegas, ¡YA NO TENDRÁS QUE ESPERAR A QUE EL JUEGO TERMINE!
+ - Soporte para más idiomas: inglés, chino, francés, italiano, alemán, español, holandés, ruso,...
 
-CARACTERISTICAS:
-- Modo de juego adictivo
-- Gráficos impresionantes que le hará sentirse emocionados y más.
-- Cinco y más temas para usted (negro, rojo, azul, verde, madera, ...)
-- bolas se moverán más rápido y más rápido con control de velocidad de las bolas.
-- Fácil de jugar, difícil de dominar.
-- Guardar y cargar muchos juegos al mismo tiempo!
-- Uso compartido de redes sociales, dejar que vencer a tus amigos en este momento!
-- Tablas de clasificación mundial para ver a sus amigos y competidores en tiempo real!
-- Presentar su puntuación más alta con pantalla de juego durante el juego, NO es necesario esperar a juego terminó MÁS!
-- Apoyo muchos idiomas: Inglés, chino, francés, italiano, alemán, español, holandés, ruso ...
-
-
-CONTÁCTENOS:
-- Visita nuestro sitio oficial en http://www.senspark.com
-- Envía tus comentarios a través de feedback@senspark.com
-- Al igual que en https://www.facebook.com/TeamSenspark y sigue
+CONTACTO:
+ - Visita nuestro sitio oficial en http://www.senspark.com
+ - Envíanos tus comentarios a feedback@senspark.com
+ - Dale a me gusta y síguenos en https://www.facebook.com/TeamSenspark

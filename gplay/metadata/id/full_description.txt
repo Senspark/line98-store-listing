@@ -1,27 +1,25 @@
-Selamat datang di dunia indah Lines 98, itu adalah menarik permainan klasik yang sederhana. Namun ia memiliki antarmuka pengguna yang brilian & dingin, kami yakin Anda akan menyukainya pada saat pertama!
+Selamat datang di dunia Lines 98 yang mengesankan. Lines 98 merupakan permainan klasik menarik yang sederhana namun memiliki antarmuka pengguna yang keren. Kami yakin aplikasi ini akan membuatmu jatuh cinta pada pandangan pertama!
 
-PERTANDINGAN BERMAIN:
-- Untuk mode LINE: membuat skor dengan mengatur 5 atau lebih bola dengan warna yang sama berturut-turut dalam garis lurus (vertikal, horizontal atau diagonal)
-- Untuk mode KOTAK: membuat skor dengan mengatur setidaknya 4 bola dengan warna yang sama untuk membentuk persegi panjang atau bujur sangkar
-- Untuk mode BLOCK: membuat skor dengan mengatur setidaknya 7 bola dengan warna yang sama berdekatan.
+GAMEPLAY:
+- Untuk mode GARIS: dapatkan skor dengan cara menyusun 5 bola berwarna sama atau lebih dalam satu garis lurus secara berurutan (vertikal, horisontal, maupun diagonal)
+- Untuk mode KOTAK: dapatkan skor dengan cara menyusun paling tidak 4 buah bola berwarna sama untuk membentuk kotak atau persegi panjang
+- Untuk mode BLOK: dapatkan skor dengan cara menyusun paling tidak 4 buah bola yang berdekatan.
+Bayangkan kamu memainkan permainan terkenal dengan cara yang luar biasa!
+Raih skor tinggi dan tantang teman-temanmu sekarang!!!
 
-Bayangkan Anda memainkan game terkenal dalam gaya yang fantastis!
-Mari kita membuat banyak nilai yang Anda bisa dan menantang teman Anda sekarang !!!
-
-FITUR:
-- Addictive gameplay
-- Grafis Mengesankan yang akan membuat Anda merasa bersemangat dan lebih.
-- Lima dan tema lebih untuk Anda (hitam, merah, biru, hijau, kayu, ...)
-- Balls akan bergerak lebih cepat dan lebih cepat dengan kontrol kecepatan bola.
-- Mudah untuk bermain, menantang untuk menguasai.
-- Simpan & memuat banyak permainan pada saat yang sama sekarang!
-- Berbagi jaringan sosial, biarkan mengalahkan teman Anda sekarang!
-- Leaderboards global untuk menonton teman-teman Anda dan pesaing secara real time!
-- Menyerahkan skor tinggi Anda dengan layar permainan saat bermain, TIDAK PERLU MENUNGGU PERTANDINGAN BERAKHIR LAGI!
-- Dukungan banyak bahasa: Inggris, Cina, Perancis, Italia, Jerman, Spanyol, Belanda, Rusia ...
-
+FItur:
+- Gameplay yang adiktif
+- Grafik mengagumkan yang akan membuatmu bersemangat.
+- Ada lebih dari lima tema untukmu (hitam, merah, biru, hijau, kayu, ...)
+- Bola akan bergerak semakin cepat dengan kendali kecepatan bola.
+- Mudah dimainkan namun sulit untuk dikuasai.
+- Simpan & muat banyak permainan sekaligus!
+- Dukungan jaringan sosial untuk berbagi, kalahkan teman-temanmu sekarang!
+- Klasemen untuk melihat hasil permainan teman-teman dan sainganmu dalam waktu nyata! 
+- Kirimkan skor tertinggimu saat bermain, TIDAK PERLU LAGI MENUNGGU HINGGA PERMAINAN SELESAI!
+- Dukungan bahasa yang lebih banyak: Inggris, Tiongkok, Prancis, Itali, Jerman, Spanyol, Belanda, Rusia, ...
 
 HUBUNGI KAMI:
-- Kunjungi situs resmi kami di http://www.senspark.com
-- Kirim masukan Anda melalui feedback@senspark.com
-- Seperti & ikuti di https://www.facebook.com/TeamSenspark
+ - Kunjungi situs resmi kami di at http://www.senspark.com
+ - Kirimkan masukanmu melalui feedback@senspark.com
+ - Sukai dan ikuti kami di https://www.facebook.com/TeamSenspark

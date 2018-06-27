@@ -1,27 +1,25 @@
-Bine ați venit în lumea minunată a liniilor 98, este un simplu joc clasic interesant. Cu toate acestea, are o interfață de utilizator genial & rece, suntem siguri va place la prima dată!
+Bine ai venit în lumea minunată a Lines 98, un joc clasic, simplu și interesant cu o interfață utilizator genială și remarcabilă care suntem siguri că te va fascina din prima clipă!
 
-JOC PLAY:
-- Pentru modul LINE: face scor prin aranjarea de 5 sau mai multe bile de aceeasi culoare consecutiv in linii drepte (vertical, orizontal sau în diagonală)
-- Pentru modul pătrat: face scor prin aranjarea cel puțin 4 bile de aceeasi culoare pentru a forma un dreptunghi sau pătrat
-- Pentru modul bloc: face scor prin aranjarea cel puțin 7 bile de aceeasi culoare apropiate unul de celălalt.
-
-Imaginează-ți că joci un joc faimos în stil fantastic!
-Hai să facem cât mai multe scoruri ca tine poate provoca prietenii acum !!!
+MOD DE JOC:
+ - Pentru modul LINIE: obține puncte prin aranjarea a 5 sau mai multe mingi de aceeași culoare consecutiv în linii drepte (vertical, orizontal sau diagonal)
+ - Pentru modul PĂTRAT: obține puncte prin aranjarea a cel puțin 4 mingi de aceeași culoare pentru a forma un dreptunghi sau pătrat
+ - Pentru modul BLOC: obține puncte prin aranjarea a cel puțin 4 mingi de aceeași culoare unele lângă altele.
+Imaginează-ți că joci un joc faimos într-un stil fantastic!
+Obține cât mai multe puncte și provoacă-ți prietenii acum!
 
 CARACTERISTICI:
-- Addictive gameplay-ul
-- Grafică impresionantă, care va face să vă simțiți excitat și mai mult.
-- Cinci și mai multe teme pentru tine (negru, rosu albastru, verde, lemn, ...)
-- Bile se va mișca mai repede și mai repede cu bile de control al vitezei.
-- Ușor de jucat, provocator de a stăpâni.
-- Salvați și încărcați multe jocuri în același timp, acum!
-- Partajare de rețea socială, să bată prietenii chiar acum!
-- Clasamentele Global pentru a viziona prietenii și competitorii în timp real!
-- Trimiteti scorul de mare, cu ecran de joc în timp ce joacă, nu aveți nevoie să așteptați pentru jocul sa încheiat MAI!
-- Suport in mai multe limbi: engleză, chineză, franceză, italiană, germană, spaniolă, olandeză, rusă ...
+ - Mod de joc care creează dependență
+ - Grafică impresionantă care te va stimula și nu numai.
+ - Cinci și mai multe teme pentru tine (negru, roșu, albastru, verde, lemn ...)
+ - Mingile se vor mișca tot mai repede cu ajutorul funcției de control al mingilor.
+ - Ușor de jucat, interesant de gestionat.
+ - Salvează și încarcă mai multe jocuri în același timp acum!
+ - Partajare pe rețelele de socializare, învinge-ți prietenii acum!
+ - Clasament pentru a-ți urmări prietenii și adversarii în timp real!
+ - Transmite punctajul mare prin intermediul ecranului de joc în timpul jocului, NU TREBUIE SĂ MAI AȘTEPȚI FINALUL JOCULUI!
+ - Asistență în mai multe limbi: engleză, chineză, franceză, italiană, germană, spaniolă, olandeză, rusă …
 
-
-CONTACTEAZA-NE:
-- Vizitati site-ul nostru oficial de la http://www.senspark.com
-- Trimite feedback-ul prin feedback@senspark.com
-- La fel ca și urmați pe https://www.facebook.com/TeamSenspark
+CONTACTEAZĂ-NE
+ - Viizitează site-ul oficial pe http://www.senspark.com
+ - Trimite feedback la feedback@senspark.com
+ - Dă-ne like și urmărește-ne pe https://www.facebook.com/TeamSenspark

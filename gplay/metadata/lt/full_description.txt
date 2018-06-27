@@ -1,27 +1,27 @@
-Sveiki atvykę į nuostabų pasaulį linijų 98, tai yra paprastas įdomus klasikinis žaidimas. Tačiau ji turi puikių & cool vartotojo sąsają, mes esame įsitikinę, jums bus meilė jį pirmą kartą!
+Sveiki atvykę į nuostabų pasaulį linijų 98, tai yra paprastas įdomus klasikinis žaidimas. Tačiau ji turi puikią & cool vartotojo sąsają, mes esame įsitikinę, jums bus meilė jį pirmą kartą!
 
 Žaidimas:
-- Laidinės režimu: padaryti rezultatą tvarkant 5 ar daugiau kamuoliukų tos pačios spalvos iš eilės tiesiomis linijomis (vertikaliai, horizontaliai arba įstrižai)
-- Kvadratinės režimu: padaryti rezultatą tvarkant bent 4 kamuoliukus tos pačios spalvos suformuoti stačiakampį ar kvadratą
-- Trinkelėmis režimu: padaryti rezultatą tvarkant bent 7 kamuoliukus tos pačios spalvos šalia kito.
+- Eilutinių režimu: padaryti rezultatą tvarkant 5 arba daugiau kamuoliukų tos pačios spalvos iš eilės tiesios linijos (vertikaliai, horizontaliai arba įstrižai)
+- kvadratinės režimu: padaryti rezultatą tvarkant bent 4 kamuoliukus tos pačios spalvos, kad suformuoti stačiakampį ar kvadratą
+- yra bloko režimu: padaryti rezultatą tvarkant ne mažiau kaip 7 kamuolius tos pačios spalvos uždaryti kartu.
 
 Įsivaizduokite, jūs žaidžiate garsaus žaidimo fantastinis stiliumi!
-Padarykime taip daug balus, kaip jūs galite ir iššūkis savo draugams dabar !!!
+Padarykime taip daug balus, kaip jūs galite ir mesti iššūkį savo draugams dabar !!!
 
 FUNKCIJOS:
-- Priklausomybę gameplay
+- priklausomybę žaidimo
 - Įspūdingi grafika, leis Jums jaustis džiaugiamės ir dar daugiau.
-- Penkiaženklis ir daugiau temų, jums (juoda, raudona, mėlyna, žalia, medis, ...)
+- Penki ir daugiau temos jums (juoda, raudona, mėlyna, žalia, medis, ...)
 - Kamuoliai judės greičiau ir greičiau su kamuoliukus greičio kontrolę.
 - Lengva žaisti, sudėtinga įvaldyti.
 - Išsaugoti ir įkelti daug žaidimų vienu metu dabar!
-- Socialinis tinklapis dalijimasis, tegul įveikti savo draugų dabar!
-- Bendrosios Lyderių žiūrėti savo draugų konkurentus realiu laiku!
-- Pateikti savo aukštą rezultatą žaidimo ekraną, o žaisti, nereikia laukti Game M. daugiau!
-- Remti įvairiomis kalbomis: anglų, kinų, prancūzų, italų, vokiečių, ispanų, olandų, rusų ...
+- Socialinio tinklo pasidalijimas, tegul įveikti savo draugų dabar!
+- Bendrosios Lyderių žiūrėti savo draugus ir konkurentus realiu laiku!
+- pateikti savo aukštą rezultatą žaidimo ekraną, o žaisti, nereikia laukti Game M., bet daugiau!
+- Remti daug kalbų: anglų, kinų, prancūzų, italų, vokiečių, ispanų, olandų, rusų ...
 
 
 SUSISIEKITE SU MUMIS:
 - Aplankykite mūsų oficialų svetainėje adresu http://www.senspark.com
 - Siųsti atsiliepimą per feedback@senspark.com
-- Kaip ir sekite ant https://www.facebook.com/TeamSenspark
+- Kaip ir sekti https://www.facebook.com/TeamSenspark

@@ -5,23 +5,23 @@ OYUN OYNA:
 - SQUARE rejimi üçün: bir düzbucaqlı və ya kvadrat yaratmaq üçün eyni rəng ən azı 4 top təşkili ilə hesab etmək
 - BLOCK rejimi üçün: yaxın eyni rəng ən azı 7 top təşkili ilə hesab edir.
 
-Siz fantastik stil məşhur oyun Təsəvvür edin!
+Siz fantastik üslubunda bir məşhur oyun oynamaq Təsəvvür edin!
 Siz kimi bir çox puanları və indi sizin dost meydan edək !!!
 
 XÜSUSİYYƏTLƏRİ:
 - Asılılıq gameplay
-- Siz həyəcanlı və daha çox hiss edəcək Etkileyici qrafika.
-- Üçün beş və daha çox mövzular (qara, qırmızı, mavi, yaşıl, ağac, ...)
+- Siz həyəcanlı və daha hiss edəcək Etkileyici qrafika.
+- üçün beş və daha çox mövzular (qara, qırmızı, mavi, yaşıl, ağac, ...)
 - Balls top sürəti nəzarət ilə daha sürətli və daha sürətli hərəkət edəcək.
 - Easy master çətin oynamaq.
-- Saxla və indi eyni zamanda bir çox oyunlar yük!
+- Saxla və indi eyni zamanda bir çox oyunlar yükləmək!
 - Sosial şəbəkə paylaşımı, indi sizin dost döymək olsun!
 - Qlobal leaderboards real vaxt sizin dost və rəqibləri izləməyə!
-- Oynarken oyun bir daha BİTƏN gözləmək lazımdır yoxdur, oyun ekran ilə sizin yüksək hesab təqdim!
+- Oynarken oyun bir daha BİTƏN gözləyin ehtiyac yoxdur, oyun ekran ilə sizin yüksək hesab təqdim!
 - Support çox dil: İngilis, Çin, Fransız, İtalyan, Alman, İspan, Holland, Rus ...
 
 
 BİZİMLƏ ƏLAQƏ SAXLAYIN:
-- Http://www.senspark.com bizim rəsmi saytına müraciət edin
-- Feedback@senspark.com vasitəsilə Əlaqə göndər
+- http://www.senspark.com bizim rəsmi saytına müraciət edin
+- feedback@senspark.com vasitəsilə Əlaqə göndər
 - Like & https://www.facebook.com/TeamSenspark edin

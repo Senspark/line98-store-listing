@@ -1,27 +1,25 @@
-Zapraszamy do wspaniałego świata liniach 98, jest to prosty ciekawe klasyczne gry. Jednak ma świetny interfejs użytkownika i chłodne, mamy pewność, pokochasz go za pierwszym razem!
+Witaj w cudownym świecie Line 98. To prosta, klasyczna i fascynująca gra o przyjaznym i pięknym interfejsie. Jesteśmy pewni, że od razu ją pokochasz.
 
-Gry:
-- W trybie LINE: make wynik organizując 5 lub więcej kulek tego samego koloru, kolejno w liniach prostych (pionowo, poziomo lub po przekątnej)
-- W trybie Square: aby wynik przez organizowanie przynajmniej 4 kulki tego samego koloru, aby utworzyć prostokąt lub kwadrat
-- W trybie bloku: aby wynik poprzez umieszczenie co najmniej 7 kulek tego samego koloru blisko siebie.
+ROZGRYWKA:
+ - W trybie LINII: zdobywaj punkty za ułożenie 5 lub więcej kulek o tym samym kolorze w jednej linii (pionowo, poziomo lub ukośnie)
+ - W trybie KWADRATU: zdobywaj punkty za ułożenie przynajmniej 4 kulek o tym samym kolorze w kształt kwadratu lub prostokąta
+ - W trybie BLOKÓW: zdobywaj punkty za ułożenie przynajmniej 4 kulek o tym samym kolorze obok siebie.
+Graj w tę słynną grę w fantastycznym stylu!
+Zdobywaj jak najwięcej punktów i rywalizuj ze swoimi znajomymi!
 
-Wyobraź sobie, że odgrywają słynnej gry w fantastycznym stylu!
-Zróbmy tyle wyniki, jak można i zaproś przyjaciół teraz !!!
+ZALETY:
+ - Wciągająca rozgrywka
+ - Piękna, ekscytująca grafika
+ - Ponad pięć wariantów wyglądu planszy (czarna, czerwona, niebieska, zielona, drewniana, ...)
+ - Kontrolowana prędkość kulek
+ - Prosta lecz wymagająca rozgrywka
+ - Możliwość zapisu i ładowania wielu gier
+ - Publikowanie w sieciach społecznościowych, gra ze znajomymi
+ - Tablica liderów pozwala na obserwowanie znajomych i konkurentów w czasie rzeczywistym
+ - Wyślij swój wynik w trakcie gry, nie czekając na jej zakończenie!
+ - Więcej języków: angielski, chiński, francuski, włoski, niemiecki, hiszpański, holenderski, rosyjski, ...
 
-CECHY:
-- Wciągająca rozgrywka
-- Imponująca grafika, która sprawi, że poczujesz pobudzony i więcej.
-- Pięć i więcej tematów dla ciebie (czarny, czerwony, niebieski, zielony, drewno, ...)
-- Piłki ruszy szybciej z regulacją prędkości kulki.
-- Łatwy do gry, trudne do opanowania.
-- Zapisz i załadować wiele gier jednocześnie już teraz!
-- Społeczny podział sieci, niech pokonać swoich znajomych już teraz!
-- Globalne liderów oglądać swoich przyjaciół i konkurentów w czasie rzeczywistym!
-- Prześlij swój najlepszy wynik z ekranu podczas gry, nie trzeba czekać na Mecz zakończył się więcej!
-- Obsługa wielu języków: angielski, chiński, francuski, włoski, niemiecki, hiszpański, holenderski, rosyjski ...
-
-
-SKONTAKTUJ SIĘ Z NAMI:
-- Odwiedź oficjalną stronę na http://www.senspark.com
-- Wyślij swoją opinię poprzez feedback@senspark.com
-- Podobnie jak i śledź na https://www.facebook.com/TeamSenspark
+KONTAKT:
+ - Oficjalna strona internetowa: http://www.senspark.com
+ - Wysyłaj uwagi na adres feedback@senspark.com
+ - Polub i śledź nas na https://www.facebook.com/TeamSenspark
